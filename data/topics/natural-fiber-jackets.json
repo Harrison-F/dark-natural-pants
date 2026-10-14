@@ -4,9 +4,9 @@
   "summary": "Black or brown · S / M · natural outer fabric · discreet pockets.",
   "updated": "2026-10-14",
   "recommendation": {
-    "title": "Best match: Quince · $80",
-    "text": "Black cotton twill, shirt collar and subtle side pockets. Closest verified option to your clean-front brief.",
-    "test": "Two options below, not four. Neither is corduroy or verified entirely natural-fiber; lining and trim caveats are explicit."
+    "title": "Best value remains Quince · $80",
+    "text": "Best new lower-priced silhouette: LA Apparel black canvas, $148—but final sale. Closest new corduroy style: Suitsupply brown, $349.",
+    "test": "Eight options: six added, ordered by price. This is not six new budget matches: expensive and silhouette compromises are labeled. Natural outer fabric only; linings/trims vary."
   },
   "products": [
     {
@@ -64,6 +64,96 @@
         }
       ],
       "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
+    },
+    {
+      "id": "jacket-la-canvas",
+      "name": "LA Apparel · Black Canvas",
+      "url": "https://losangelesapparel.net/products/rhc401gd-8oz-heavy-micro-canvas-zip-up-raglan-jacket?variant=44906770596019",
+      "verdict": "Best new value · final sale",
+      "summary": "Pointed collar, clean chest and discreet welt pockets.",
+      "image": "assets/images/jacket-la-canvas-gallery-01.webp",
+      "imageAlt": "jacket la canvas — product photo 1",
+      "imageNote": "Official selected-color retailer gallery; includes retailer duplicate uploads where exposed. Product styling differs as noted.",
+      "images": [
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-01.webp",
+          "alt": "jacket la canvas — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK5.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-02.webp",
+          "alt": "jacket la canvas — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK3.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-03.webp",
+          "alt": "jacket la canvas — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK4.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-04.webp",
+          "alt": "jacket la canvas — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK6.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-05.webp",
+          "alt": "jacket la canvas — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-06.webp",
+          "alt": "jacket la canvas — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK2.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-07.webp",
+          "alt": "jacket la canvas — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK5_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-08.webp",
+          "alt": "jacket la canvas — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK3_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-09.webp",
+          "alt": "jacket la canvas — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK4_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-10.webp",
+          "alt": "jacket la canvas — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK6_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-11.webp",
+          "alt": "jacket la canvas — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK1_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-12.webp",
+          "alt": "jacket la canvas — product photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GD-BLACK2_1.jpg?v=1770143699"
+        },
+        {
+          "src": "assets/images/jacket-la-canvas-gallery-13.webp",
+          "alt": "jacket la canvas — product photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/RHC401GDBLACKFRONT_3.jpg?v=1774556746"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "100% cotton heavyweight micro canvas, 8 oz",
+        "Price": "$148 · shipping/tax checkout unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Lining and trim fibers undisclosed",
+        "Returns": "Final sale · no returns or exchanges",
+        "Trade-off": "Canvas, not corduroy; final-sale fit risk"
+      },
+      "sources": [
+        "jacket-la-canvas",
+        "jacket-la-canvas-delivery",
+        "jacket-la-canvas-returns"
+      ]
     },
     {
       "id": "jacket-bronson-brown",
@@ -175,6 +265,355 @@
         }
       ],
       "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
+    },
+    {
+      "id": "jacket-la-corduroy",
+      "name": "LA Apparel · Chocolate Corduroy",
+      "url": "https://losangelesapparel.net/products/cd410pd-corduroy-puffy-zip-up-jacket?variant=45126443794611",
+      "verdict": "Brown corduroy · boxier cut",
+      "summary": "Stand collar and puffy silhouette; subtle side welts.",
+      "image": "assets/images/jacket-la-corduroy-gallery-01.webp",
+      "imageAlt": "jacket la corduroy — product photo 1",
+      "imageNote": "Official selected-color retailer gallery; includes retailer duplicate uploads where exposed. Product styling differs as noted.",
+      "images": [
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-01.webp",
+          "alt": "jacket la corduroy — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-2-HALF.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-02.webp",
+          "alt": "jacket la corduroy — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-1-HALF.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-03.webp",
+          "alt": "jacket la corduroy — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-3-HALF.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-04.webp",
+          "alt": "jacket la corduroy — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-4-HALF.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-05.webp",
+          "alt": "jacket la corduroy — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-2.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-06.webp",
+          "alt": "jacket la corduroy — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DARK-CHOCOLATE-3.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-07.webp",
+          "alt": "jacket la corduroy — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DarkChocolate.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-08.webp",
+          "alt": "jacket la corduroy — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DarkChocolate2.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-09.webp",
+          "alt": "jacket la corduroy — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DarkChocolate3.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-10.webp",
+          "alt": "jacket la corduroy — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/CD410PD-DarkChocolate4.jpg?v=1774281514"
+        },
+        {
+          "src": "assets/images/jacket-la-corduroy-gallery-11.webp",
+          "alt": "jacket la corduroy — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/2152/0639/files/cd410pd-3_1.jpg?v=1774281514"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "100% cotton, panel-dyed corduroy",
+        "Price": "$220 · shipping/tax checkout unverified",
+        "Size / stock": "XS/S and M/L available · combined sizing",
+        "Lining / trims": "Lining, fill and rib composition undisclosed",
+        "Returns": "14 days for refund; return postage extra",
+        "Trade-off": "Not a shirt collar; padding composition unknown"
+      },
+      "sources": [
+        "jacket-la-corduroy",
+        "jacket-la-corduroy-delivery",
+        "jacket-la-corduroy-returns"
+      ]
+    },
+    {
+      "id": "jacket-taylor-coal",
+      "name": "Taylor Stitch · Coal Bomber",
+      "url": "https://www.taylorstitch.com/products/bomber-jacket-in-coal-dry-wax-2408",
+      "verdict": "Higher-price insulated alternative",
+      "summary": "Black dry-waxed cotton with discreet hand-warmer pockets.",
+      "image": "assets/images/jacket-taylor-coal-gallery-01.webp",
+      "imageAlt": "jacket taylor coal — product photo 1",
+      "imageNote": "Official selected-color retailer gallery; includes retailer duplicate uploads where exposed. Product styling differs as noted.",
+      "images": [
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-01.webp",
+          "alt": "jacket taylor coal — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_The_Insulated_Bomber_Jacket_in_Coal_Dry_Wax_portrait_01.jpg?v=1790616476"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-02.webp",
+          "alt": "jacket taylor coal — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_002.jpg?v=1788367166"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-03.webp",
+          "alt": "jacket taylor coal — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_003.jpg?v=1788367170"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-04.webp",
+          "alt": "jacket taylor coal — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_004.jpg?v=1788367176"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-05.webp",
+          "alt": "jacket taylor coal — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_005.jpg?v=1788367180"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-06.webp",
+          "alt": "jacket taylor coal — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_006.jpg?v=1788367183"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-07.webp",
+          "alt": "jacket taylor coal — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_007.jpg?v=1788367188"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-08.webp",
+          "alt": "jacket taylor coal — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_008.jpg?v=1788367191"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-09.webp",
+          "alt": "jacket taylor coal — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_009.jpg?v=1723571828"
+        },
+        {
+          "src": "assets/images/jacket-taylor-coal-gallery-10.webp",
+          "alt": "jacket taylor coal — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q324_The_Bomber_Jacket-CoalDryWax_swatch.jpg?v=1723571827"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "100% organic cotton dry wax, 8 oz",
+        "Price": "$268 · shipping/tax checkout unverified",
+        "Size / stock": "S–38 / M–40 available",
+        "Lining / trims": "Nylon lining; polyester insulation; rib fiber unknown",
+        "Returns": "21 days; eligible US returns free",
+        "Trade-off": "Ribbed bomber collar; synthetic interior and wax finish"
+      },
+      "sources": [
+        "jacket-taylor-coal",
+        "jacket-taylor-coal-delivery",
+        "jacket-taylor-coal-returns"
+      ]
+    },
+    {
+      "id": "jacket-suitsupply-cord",
+      "name": "Suitsupply · Brown Corduroy",
+      "url": "https://suitsupply.com/en-us/men/coats/dark-brown-corduroy-bomber-jacket/J1058.html",
+      "verdict": "Closest new corduroy silhouette · $349",
+      "summary": "Pointed collar, clean chest, dark-brown corduroy and discreet welts.",
+      "image": "assets/images/jacket-suitsupply-cord-gallery-01.webp",
+      "imageAlt": "jacket suitsupply cord — product photo 1",
+      "imageNote": "Official exact-product gallery. No prominent patch or flap pockets visible.",
+      "images": [
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-01.webp",
+          "alt": "jacket suitsupply cord — product photo 1",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/j1058_25"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-02.webp",
+          "alt": "jacket suitsupply cord — product photo 2",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/j1058_00"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-03.webp",
+          "alt": "jacket suitsupply cord — product photo 3",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/j1058_23"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-04.webp",
+          "alt": "jacket suitsupply cord — product photo 4",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_1"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-05.webp",
+          "alt": "jacket suitsupply cord — product photo 5",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_101"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-06.webp",
+          "alt": "jacket suitsupply cord — product photo 6",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_102"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-07.webp",
+          "alt": "jacket suitsupply cord — product photo 7",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_103"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-08.webp",
+          "alt": "jacket suitsupply cord — product photo 8",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_104"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-09.webp",
+          "alt": "jacket suitsupply cord — product photo 9",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_105"
+        },
+        {
+          "src": "assets/images/jacket-suitsupply-cord-gallery-10.webp",
+          "alt": "jacket suitsupply cord — product photo 10",
+          "source": "https://cdn.suitsupply.com/image/upload/f_auto,q_auto,w_1200/products/coats/default/winter/j1058_106"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "100% cotton corduroy",
+        "Price": "$349 · destination checkout unverified",
+        "Size / stock": "US 38 / EU 48 available · retailer maps to M",
+        "Lining / trims": "Fully lined; lining and elastic fibers undisclosed",
+        "Returns": "30 days · advertised free US returns",
+        "Trade-off": "More expensive; gathered cuffs and hem"
+      },
+      "sources": [
+        "jacket-suitsupply-cord",
+        "jacket-suitsupply-cord-policy"
+      ]
+    },
+    {
+      "id": "jacket-sunspel-wool",
+      "name": "Sunspel · Black Wool Harrington",
+      "url": "https://us.sunspel.com/products/mens-boiled-wool-harrington-jacket-in-black-mjac7200-bkaa",
+      "verdict": "Premium reference · not budget-friendly",
+      "summary": "Pointed collar and clean front; discreet welt pockets.",
+      "image": "assets/images/jacket-sunspel-wool-gallery-01.webp",
+      "imageAlt": "jacket sunspel wool — product photo 1",
+      "imageNote": "Official selected-color retailer gallery; includes retailer duplicate uploads where exposed. Product styling differs as noted.",
+      "images": [
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-01.webp",
+          "alt": "jacket sunspel wool — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-1.jpg?v=1783671588"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-02.webp",
+          "alt": "jacket sunspel wool — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-2.jpg?v=1783671588"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-03.webp",
+          "alt": "jacket sunspel wool — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-3.jpg?v=1783671587"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-04.webp",
+          "alt": "jacket sunspel wool — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-4.jpg?v=1783671588"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-05.webp",
+          "alt": "jacket sunspel wool — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-5.jpg?v=1783671588"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-06.webp",
+          "alt": "jacket sunspel wool — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-6.jpg?v=1783671588"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-wool-gallery-07.webp",
+          "alt": "jacket sunspel wool — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7200-bkaa-7.jpg?v=1783671588"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "100% wool",
+        "Price": "$690 · shipping/tax checkout unverified",
+        "Size / stock": "S / M available · low stock",
+        "Lining / trims": "Lining fiber undisclosed; horn buttons",
+        "Returns": "14 days; return costs apply",
+        "Trade-off": "Very expensive; wool rather than corduroy"
+      },
+      "sources": [
+        "jacket-sunspel-wool",
+        "jacket-sunspel-wool-delivery",
+        "jacket-sunspel-wool-returns"
+      ]
+    },
+    {
+      "id": "jacket-sunspel-tweed",
+      "name": "Sunspel · Brown Wool–Silk",
+      "url": "https://us.sunspel.com/products/mens-donegal-tweed-zip-jacket-in-dark-brown-melange-mjac7222-brhp",
+      "verdict": "Premium reference · not budget-friendly",
+      "summary": "Dark-brown flecked tweed, funnel collar and discreet pockets.",
+      "image": "assets/images/jacket-sunspel-tweed-gallery-01.webp",
+      "imageAlt": "jacket sunspel tweed — product photo 1",
+      "imageNote": "Official selected-color retailer gallery; includes retailer duplicate uploads where exposed. Product styling differs as noted.",
+      "images": [
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-01.webp",
+          "alt": "jacket sunspel tweed — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-1.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-02.webp",
+          "alt": "jacket sunspel tweed — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-2.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-03.webp",
+          "alt": "jacket sunspel tweed — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-3.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-04.webp",
+          "alt": "jacket sunspel tweed — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-4.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-05.webp",
+          "alt": "jacket sunspel tweed — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-5.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-06.webp",
+          "alt": "jacket sunspel tweed — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-6.jpg?v=1783671579"
+        },
+        {
+          "src": "assets/images/jacket-sunspel-tweed-gallery-07.webp",
+          "alt": "jacket sunspel tweed — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0588/2177/1316/files/mjac7222-brhp-7.jpg?v=1783671579"
+        }
+      ],
+      "facts": {
+        "Outer fabric": "70% wool, 30% silk",
+        "Price": "$850 · shipping/tax checkout unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Lining fiber undisclosed; horn buttons",
+        "Returns": "14 days; return costs apply",
+        "Trade-off": "Very expensive; stand collar and flecked fabric"
+      },
+      "sources": [
+        "jacket-sunspel-tweed",
+        "jacket-sunspel-tweed-delivery",
+        "jacket-sunspel-tweed-returns"
+      ]
     }
   ],
   "sources": [
@@ -219,8 +658,127 @@
       "url": "https://bronsonshop.com/pages/returns",
       "type": "Merchant policy",
       "note": "30 days; original unworn condition, tags and packaging; provided return label $7 for 1-2 items, exchange/store credit advertised free; original shipping/taxes/duties nonrefundable"
+    },
+    {
+      "id": "jacket-la-canvas",
+      "title": "View LA Apparel · Black Canvas",
+      "url": "https://losangelesapparel.net/products/rhc401gd-8oz-heavy-micro-canvas-zip-up-raglan-jacket?variant=44906770596019",
+      "type": "Live product and exact size data",
+      "note": " The 8oz Heavy Micro Canvas Pant is made from durable, heavyweight micro canvas designed for everyday wear with a more structured feel. Built for comfort and longevity, this style features clean welt pockets and elastic cuffs for a secure, tapered fit. A versatile essential that works equally well for lounging or stepping out. \n Our experienced sewers earn up to $25 an hour and no less than $18.42; additionally workers have healthcare benefits for less than $15 per week, a 401k plan, paid sick days, subsidized bus passes and favorable overtime benefits. \n • Relaxed Fit • Elastic Cuffs • Welt Pockets • Machine Washable • Made in Los Angeles, Calif. • All sales final. No returns or exchanges allowed. • Heavyweight Micro Canvas: 100% Cotton • Fabric Weight: 8 oz  Exact S/M or combined-size availability and price independently rechecked via retailer product data. FINAL SALE: no returns or exchanges. Product description mistakenly calls the garment a Pant; product title, photos and exact variant data clearly identify the jacket. Lining, zipper tape and elastic-cuff fiber composition are not separately disclosed."
+    },
+    {
+      "id": "jacket-la-canvas-delivery",
+      "title": "LA Apparel · Black Canvas · delivery",
+      "url": "https://losangelesapparel.net/pages/shipping-options",
+      "type": "Published US policy; destination total unverified",
+      "note": "US economy policy advertises $7.50 / free over $125; ships within 1 day and estimated transit 2–7 business days. This is policy only, not a ZIP-specific quote. ZIP10016 shipping, tax and arrival date not quoted."
+    },
+    {
+      "id": "jacket-la-canvas-returns",
+      "title": "LA Apparel · Black Canvas · returns",
+      "url": "https://losangelesapparel.net/pages/returns-exchanges",
+      "type": "Merchant terms",
+      "note": "Product-specific final sale: no returns or exchanges. General return policy does not override this."
+    },
+    {
+      "id": "jacket-la-corduroy",
+      "title": "View LA Apparel · Chocolate Corduroy",
+      "url": "https://losangelesapparel.net/products/cd410pd-corduroy-puffy-zip-up-jacket?variant=45126443794611",
+      "type": "Live product and exact size data",
+      "note": " The Panel Dye Zip Jacket is crafted from 100% cotton with a rich panel-dyed finish for a soft hand feel and lived-in look. Designed for everyday layering, this style features a structured stand collar and ribbed cuffs and waistband for a comfortable, secure fit. Pair it with your favorite tee and relaxed trousers for an easy, coordinated outfit. \n  Our experienced sewers earn up to $25 an hour and no less than $18.42; additionally workers have healthcare benefits for less than $15 per week, a 401k plan, paid sick days, subsidized bus passes and favorable overtime benefits.  \n • 100% Cotton • Panel dyed for unique color variation • Two welt pockets on front • Inside welt pocket on left chest • Ribbed cuffs and waistband • Stand collar • Machine Washable • Made in Los Angeles, Calif.   Exact S/M or combined-size availability and price independently rechecked via retailer product data. Style compromise: stand collar and rounded bomber silhouette rather than desired shirt collar. Uses combined XS/S and M/L sizing, not separate S and M. Both combined sizes in stock. Lining/filling and rib/zipper-tape composition are not separately disclosed; do not claim entire padded garment is plastic-free."
+    },
+    {
+      "id": "jacket-la-corduroy-delivery",
+      "title": "LA Apparel · Chocolate Corduroy · delivery",
+      "url": "https://losangelesapparel.net/pages/shipping-options",
+      "type": "Published US policy; destination total unverified",
+      "note": "US economy policy advertises $7.50 / free over $125; ships within 1 day and estimated transit 2–7 business days. Policy only, not ZIP-specific quote. ZIP10016 shipping, tax and arrival date not quoted."
+    },
+    {
+      "id": "jacket-la-corduroy-returns",
+      "title": "LA Apparel · Chocolate Corduroy · returns",
+      "url": "https://losangelesapparel.net/pages/returns-exchanges",
+      "type": "Merchant terms",
+      "note": "Online returns within 14 days of delivery for refund/exchange/store credit; days 15–30 store credit only. Unworn/unwashed/undamaged. Customer pays return label, amount not stated. General policy has 30% restocking clause when returning >50% of a purchase of $500+, not relevant to one $220 jacket alone."
+    },
+    {
+      "id": "jacket-taylor-coal",
+      "title": "View Taylor Stitch · Coal Bomber",
+      "url": "https://www.taylorstitch.com/products/bomber-jacket-in-coal-dry-wax-2408",
+      "type": "Live product and exact size data",
+      "note": "The Insulated Bomber Jacket in Coal Dry Wax from Taylor Stitch \n 8-oz. 100% organic cotton dry wax. \n \n Dry wax finish offers wind and water repellency. \n \n 1.5-oz. 100% recycled nylon body and sleeve lining quilted with 120g recycled poly insulation.\n \n Heavyweight rib at neck opening, cuff, and bottom opening.\n \n Two welt hand warmer pockets lined in soft brushed cotton.\n \n YKK two-way separating zipper with leather tear drop puller.\n \n Interior welt pocket at chest level with snap closure.\n \n Spot clean only. \n \n Made in China. \n \n Exact S/M or combined-size availability and price independently rechecked via retailer product data. "
+    },
+    {
+      "id": "jacket-taylor-coal-delivery",
+      "title": "Taylor Stitch · Coal Bomber · delivery",
+      "url": "https://www.taylorstitch.com/products/bomber-jacket-in-coal-dry-wax-2408",
+      "type": "Published US policy; destination total unverified",
+      "note": "US in-stock domestic orders free; up to 2 business days processing then 2–5 business days shipping ZIP10016 shipping, tax and arrival date not quoted."
+    },
+    {
+      "id": "jacket-taylor-coal-returns",
+      "title": "Taylor Stitch · Coal Bomber · returns",
+      "url": "https://www.taylorstitch.com/products/bomber-jacket-in-coal-dry-wax-2408",
+      "type": "Merchant terms",
+      "note": "21 days from delivery; new/tags/unworn/unwashed/unaltered; free continental-US return shipping; Last Call excluded"
+    },
+    {
+      "id": "jacket-sunspel-wool",
+      "title": "View Sunspel · Black Wool Harrington",
+      "url": "https://us.sunspel.com/products/mens-boiled-wool-harrington-jacket-in-black-mjac7200-bkaa",
+      "type": "Live product and exact size data",
+      "note": "Crafted from exceptionally soft, smooth boiled wool sourced from a renowned Italian mill, this Harrington jacket is both contemporary and elegant. Lightweight yet substantial, it is fully lined and features a zip closure and side welt pockets. Pair with the matching Boiled Wool Trouser for an effortless, refined set. Product Code: MJAC7200-BKAA Exact S/M or combined-size availability and price independently rechecked via retailer product data. "
+    },
+    {
+      "id": "jacket-sunspel-wool-delivery",
+      "title": "Sunspel · Black Wool Harrington · delivery",
+      "url": "https://us.sunspel.com/products/mens-boiled-wool-harrington-jacket-in-black-mjac7200-bkaa",
+      "type": "Published US policy; destination total unverified",
+      "note": "US warehouse, no customs/duties; 1–3 working days FedEx; $10 or free over $250 ZIP10016 shipping, tax and arrival date not quoted."
+    },
+    {
+      "id": "jacket-sunspel-wool-returns",
+      "title": "Sunspel · Black Wool Harrington · returns",
+      "url": "https://us.sunspel.com/pages/returns",
+      "type": "Merchant terms",
+      "note": "14 days from delivery, new/unused/saleable with original packaging/labels/tags; own-postage returns at customer expense; portal-label fee not stated"
+    },
+    {
+      "id": "jacket-sunspel-tweed",
+      "title": "View Sunspel · Brown Wool–Silk",
+      "url": "https://us.sunspel.com/products/mens-donegal-tweed-zip-jacket-in-dark-brown-melange-mjac7222-brhp",
+      "type": "Live product and exact size data",
+      "note": "A regular fit Donegal tweed zip jacket made from Italian-woven cloth blending virgin wool and silk. The fabric gives the flecked character of traditional Donegal tweed a softer, more refined handle. Designed in a funnel neck blouson shape, it has a double-ended zip, elasticated hem, slim double jet pockets, adjustable button cuffs and a full lining with two internal buttoned pockets. Wear it with the matching trousers for a contemporary set or over knitwear through winter. Product Code: MJAC7222-BRHP Exact S/M or combined-size availability and price independently rechecked via retailer product data. "
+    },
+    {
+      "id": "jacket-sunspel-tweed-delivery",
+      "title": "Sunspel · Brown Wool–Silk · delivery",
+      "url": "https://us.sunspel.com/products/mens-donegal-tweed-zip-jacket-in-dark-brown-melange-mjac7222-brhp",
+      "type": "Published US policy; destination total unverified",
+      "note": "US warehouse, no customs/duties; 1–3 working days FedEx; $10 or free over $250 ZIP10016 shipping, tax and arrival date not quoted."
+    },
+    {
+      "id": "jacket-sunspel-tweed-returns",
+      "title": "Sunspel · Brown Wool–Silk · returns",
+      "url": "https://us.sunspel.com/pages/returns",
+      "type": "Merchant terms",
+      "note": "14 days from delivery, new/unused/saleable with original packaging/labels/tags; own-postage returns at customer expense; portal-label fee not stated"
+    },
+    {
+      "id": "jacket-suitsupply-cord",
+      "title": "View Suitsupply · Brown Corduroy",
+      "url": "https://suitsupply.com/en-us/men/coats/dark-brown-corduroy-bomber-jacket/J1058.html",
+      "type": "Live product and selected size",
+      "note": "Primary page confirms pure cotton. Live size selector maps M to regular38; size38 selected with Add to bag enabled. No purchase. Image visually checked: pointed collar and discreet welt pockets. Lining/elastic composition unknown."
+    },
+    {
+      "id": "jacket-suitsupply-cord-policy",
+      "title": "Suitsupply · delivery and returns",
+      "url": "https://suitsupply.com/en-us/men/coats/dark-brown-corduroy-bomber-jacket/J1058.html",
+      "type": "Published policy",
+      "note": "US page and structured data advertise free US delivery 3-6 business days. ZIP10016 not tested; tax not obtained. US structured policy: 30 days, free mail returns"
     }
   ],
-  "evidenceNote": "Exact retailer pages, S/M availability and official product photos checked October 14. Quince delivery was checked using ZIP 10016; the retailer estimated October 18, not a guaranteed arrival. Bronson destination checkout and tax were not verified. ARKET’s reference page blocked direct viewing; its indexed description identifies a straight-cut corduroy overshirt with chest patch pockets. These alternatives avoid prominent chest pockets but do not reproduce its corduroy texture.",
+  "evidenceNote": "Retailer product pages, exact sizes and official galleries checked October 14. New S/M stock and prices independently rechecked; LA corduroy uses XS/S and M/L, and Suitsupply maps regular38 to M. All new destination shipping totals and taxes remain unverified. Quince’s earlier ZIP10016 estimate was free delivery October18, not guaranteed. Decorative Non Stock Bolero was rejected despite cotton fabric; MUJI denim rejected for prominent chest pockets; Community Clothing pauses US delivery. Higher-price options remain for comparison, not affordability recommendations.",
   "caveat": "100% natural outer fabric is not the same as an entirely natural or plastic-free garment. Organic cotton does not establish a health benefit or absence of dyes/finishes. No exact-product influencer endorsement or independently verified safety certification is claimed."
 }
