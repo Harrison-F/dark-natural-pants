@@ -1,14 +1,226 @@
 {
   "id": "natural-fiber-jackets",
-  "title": "Clean-front natural-fiber jackets",
-  "summary": "Black or brown · S / M · natural outer fabric · discreet pockets.",
+  "title": "30 natural-fiber jacket options",
+  "summary": "Black / brown · S or M · natural outer fabric · subtle and tonal pockets.",
   "updated": "2026-10-14",
   "recommendation": {
-    "title": "Best value remains Quince · $80",
-    "text": "Best new lower-priced silhouette: LA Apparel black canvas, $148—but final sale. Closest new corduroy style: Suitsupply brown, $349.",
-    "test": "Eight options: six added, ordered by price. This is not six new budget matches: expensive and silhouette compromises are labeled. Natural outer fabric only; linings/trims vary."
+    "title": "Start with the lower-priced options",
+    "text": "Gap brown gingham $64.99, Dickies black cotton Eisenhower $70, Time Catcher brown corduroy $75, and Quince black Harrington $80.",
+    "test": "30 distinct styles, ordered by item price—not delivered cost. Tonal pockets are included; bigger flaps, patterns, faded colors and premium prices are flagged. Compare the photos before choosing."
   },
   "products": [
+    {
+      "id": "jacket-mainstream-1",
+      "name": "Gap · Brown Gingham Zip",
+      "url": "https://www.gap.com/browse/product.do?pid=896365002",
+      "verdict": "Brown gingham · plum-toned photo",
+      "summary": "Flat tonal front patch pockets; subtle brown gingham pattern. Brown appears plum-toned in product photo.",
+      "image": "assets/images/jacket-mainstream-1-gallery-01.webp",
+      "imageAlt": "Gap · Brown Gingham Zip official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-mainstream-1-gallery-01.webp",
+          "alt": "jacket mainstream 1 — product photo 1",
+          "source": "https://content.gapinc.com/b/0062/329/920/cn62329920.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-1-gallery-02.webp",
+          "alt": "jacket mainstream 1 — product photo 2",
+          "source": "https://content.gapinc.com/b/0062/303/318/cn62303318.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-1-gallery-03.webp",
+          "alt": "jacket mainstream 1 — product photo 3",
+          "source": "https://content.gapinc.com/b/0062/303/336/cn62303336.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-1-gallery-04.webp",
+          "alt": "jacket mainstream 1 — product photo 4",
+          "source": "https://content.gapinc.com/b/0062/351/626/cn62351626.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-1-gallery-05.webp",
+          "alt": "jacket mainstream 1 — product photo 5",
+          "source": "https://content.gapinc.com/b/0062/351/663/cn62351663.png"
+        }
+      ],
+      "sortPriceUSD": 64.99,
+      "facts": {
+        "Outer fabric": "100% Cotton.",
+        "Price": "$64.99 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free.",
+        "Returns": "Exact online-order return terms not verified; inspect retailer policy before ordering."
+      },
+      "sources": [
+        "jacket-mainstream-1",
+        "jacket-mainstream-1-policies"
+      ]
+    },
+    {
+      "id": "jacket-usbrands-1",
+      "name": "Dickies · Black Duck Eisenhower",
+      "url": "https://www.dickies.com/products/insulated-duck-eisenhower-jacket-dk0ydfwj01mblk",
+      "verdict": "Low-price clean front · small hem logo",
+      "summary": "Discreet lower welt hand pockets; tonal upper sleeve patch pocket; small multicolor Dickies logo near hem.",
+      "image": "assets/images/jacket-usbrands-1-gallery-01.webp",
+      "imageAlt": "Dickies · Black Duck Eisenhower official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-01.webp",
+          "alt": "jacket usbrands 1 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-FR.jpg?v=1791329140"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-02.webp",
+          "alt": "jacket usbrands 1 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-BK.jpg?v=1791329143"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-03.webp",
+          "alt": "jacket usbrands 1 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-A1.jpg?v=1791329140"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-04.webp",
+          "alt": "jacket usbrands 1 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-A4.jpg?v=1791329139"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-05.webp",
+          "alt": "jacket usbrands 1 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-A7.jpg?v=1791329145"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-1-gallery-06.webp",
+          "alt": "jacket usbrands 1 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0692/5752/7484/files/YDFWJ01MBLK-A8.jpg?v=1791329145"
+        }
+      ],
+      "sortPriceUSD": 70.0,
+      "facts": {
+        "Outer fabric": "100% cotton duck canvas (product-page material field)",
+        "Price": "$70 · shipping/tax extra or unverified",
+        "Size / stock": "Black (BLK) / S / Black (BLK) / M available",
+        "Lining / trims": "Quilted lining and insulation, fibers unspecified; contrasting corduroy-look collar; metal zipper.",
+        "Returns": "30 days from purchase; new/unwashed/unworn/unaltered"
+      },
+      "sources": [
+        "jacket-usbrands-1",
+        "jacket-usbrands-1-policies"
+      ]
+    },
+    {
+      "id": "jacket-workwear-0",
+      "name": "Time Catcher · Brown Corduroy",
+      "url": "https://www.olderbest.com/products/1940s-french-corduroy-chore-coat?currency=USD&country=US",
+      "verdict": "M only · brown tonal patch pockets",
+      "summary": "Tonal chest and lower patch pockets; same brown corduroy, visible outlines but no contrasting pocket trim.",
+      "image": "assets/images/jacket-workwear-0-gallery-01.webp",
+      "imageAlt": "Time Catcher · Brown Corduroy official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-01.webp",
+          "alt": "jacket workwear 0 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_65b80b5a-2605-4577-aa90-e181bcf1c415.jpg?v=1752051746"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-02.webp",
+          "alt": "jacket workwear 0 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_922dd1c5-66e6-41bd-b5db-c3dc062ecfec.jpg?v=1752051746"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-03.webp",
+          "alt": "jacket workwear 0 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/16_74e29541-9a5b-4cd6-8f95-52c69c3e54fc.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-04.webp",
+          "alt": "jacket workwear 0 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/14_6e5e38e6-e768-4084-9260-8508bdbd780a.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-05.webp",
+          "alt": "jacket workwear 0 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/15_f7c55f01-8349-48b6-ae65-54e3bb11b0d7.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-06.webp",
+          "alt": "jacket workwear 0 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/18_ccb71e13-da27-4d7e-9df1-13ac853b76e5.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-07.webp",
+          "alt": "jacket workwear 0 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_bac1a5e5-12c9-4367-bc67-d5a2a6ef8226.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-08.webp",
+          "alt": "jacket workwear 0 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_4af77032-a0fb-4a2a-8c19-4e97bd1c14a7.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-09.webp",
+          "alt": "jacket workwear 0 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_c8d83b41-309c-447b-b612-469968ecd9a4.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-10.webp",
+          "alt": "jacket workwear 0 — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_0b338963-8243-43d3-a46e-2fdda240e635.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-11.webp",
+          "alt": "jacket workwear 0 — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_791d406c-f3d4-41e5-bc6e-e78a6a41ec41.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-12.webp",
+          "alt": "jacket workwear 0 — product photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_a50ad6fb-fdaa-49fb-a09d-639e9b5b7943.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-13.webp",
+          "alt": "jacket workwear 0 — product photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_c2bb0287-1745-4e20-afd9-b75aa0882f12.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-14.webp",
+          "alt": "jacket workwear 0 — product photo 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_979c4888-c6ce-4ed6-b6d1-1c599fc6548e.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-15.webp",
+          "alt": "jacket workwear 0 — product photo 15",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_396d192c-8dbd-4434-8437-a5e554a6e963.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-16.webp",
+          "alt": "jacket workwear 0 — product photo 16",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/13_38a1838a-51f8-4139-bd31-3387cc3bd2bf.jpg?v=1752051905"
+        },
+        {
+          "src": "assets/images/jacket-workwear-0-gallery-17.webp",
+          "alt": "jacket workwear 0 — product photo 17",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_511526e6-458f-4786-b5c5-07921145a61b.jpg?v=1752051905"
+        }
+      ],
+      "sortPriceUSD": 75.0,
+      "facts": {
+        "Outer fabric": "100% cotton corduroy",
+        "Price": "$75 · shipping/tax extra or unverified",
+        "Size / stock": "Brown / M available",
+        "Lining / trims": "Natural ox-horn buttons; lining/thread composition not specified.",
+        "Returns": "30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified"
+      },
+      "sources": [
+        "jacket-workwear-0",
+        "jacket-workwear-0-policies"
+      ]
+    },
     {
       "id": "jacket-quince-black",
       "name": "Quince · Black Harrington",
@@ -63,7 +275,510 @@
           "source": "https://images.quince.com/67ClMyxmQQexRrrEMVq5ff/554b46972fa04a6d255677b0efefbc00/M-JKT-56-BLA-06_EDITED.jpg?w=1400&q=85&fm=webp"
         }
       ],
-      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
+      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads.",
+      "sortPriceUSD": 80
+    },
+    {
+      "id": "jacket-mainstream-5",
+      "name": "MUJI · Brown-Check Flannel",
+      "url": "https://www.muji.us/products/flannel-zip-blouson-ac24p26a?variant=47627329994942",
+      "verdict": "Multicolor brown check · subtle pockets",
+      "summary": "Discreet diagonal lower pockets. Bold multicolor brown/gray/cream check: patterned option, not solid brown.",
+      "image": "assets/images/jacket-mainstream-5-gallery-01.webp",
+      "imageAlt": "MUJI · Brown-Check Flannel official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-01.webp",
+          "alt": "jacket mainstream 5 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_07_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-02.webp",
+          "alt": "jacket mainstream 5 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-03.webp",
+          "alt": "jacket mainstream 5 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_01_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-04.webp",
+          "alt": "jacket mainstream 5 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_02_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-05.webp",
+          "alt": "jacket mainstream 5 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_03_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-06.webp",
+          "alt": "jacket mainstream 5 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_04_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-07.webp",
+          "alt": "jacket mainstream 5 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_05_org.jpg?v=1784143386"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-5-gallery-08.webp",
+          "alt": "jacket mainstream 5 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0556/8066/3742/files/4550723259750_06_org.jpg?v=1784143386"
+        }
+      ],
+      "sortPriceUSD": 89.9,
+      "facts": {
+        "Outer fabric": "100% cotton",
+        "Price": "$89.9 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "No separate lining or trim fiber composition disclosed; zipper present.",
+        "Returns": "Within 30 days of delivery, unused in original packaging with original tags"
+      },
+      "sources": [
+        "jacket-mainstream-5",
+        "jacket-mainstream-5-policies"
+      ]
+    },
+    {
+      "id": "jacket-mainstream-4",
+      "name": "Gap · Washed-Black Denim",
+      "url": "https://www.gap.com/browse/product.do?pid=819649002",
+      "verdict": "Washed black · visible tonal chest flaps",
+      "summary": "Tonal flat denim chest flap pockets with buttons: more noticeable than plain patches; borderline pocket preference.",
+      "image": "assets/images/jacket-mainstream-4-gallery-01.webp",
+      "imageAlt": "Gap · Washed-Black Denim official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-01.webp",
+          "alt": "jacket mainstream 4 — product photo 1",
+          "source": "https://content.gapinc.com/b/0062/524/641/cn62524641.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-02.webp",
+          "alt": "jacket mainstream 4 — product photo 2",
+          "source": "https://content.gapinc.com/b/0062/522/774/cn62522774.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-03.webp",
+          "alt": "jacket mainstream 4 — product photo 3",
+          "source": "https://content.gapinc.com/b/0062/522/779/cn62522779.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-04.webp",
+          "alt": "jacket mainstream 4 — product photo 4",
+          "source": "https://content.gapinc.com/b/0062/522/808/cn62522808.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-05.webp",
+          "alt": "jacket mainstream 4 — product photo 5",
+          "source": "https://content.gapinc.com/b/0059/290/672/cn59290672.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-4-gallery-06.webp",
+          "alt": "jacket mainstream 4 — product photo 6",
+          "source": "https://content.gapinc.com/b/0060/494/568/cn60494568.png"
+        }
+      ],
+      "sortPriceUSD": 89.95,
+      "facts": {
+        "Outer fabric": "Cotton 100%",
+        "Price": "$89.95 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free.",
+        "Returns": "Exact online-order return terms not verified; inspect retailer policy before ordering."
+      },
+      "sources": [
+        "jacket-mainstream-4",
+        "jacket-mainstream-4-policies"
+      ]
+    },
+    {
+      "id": "jacket-mainstream-0",
+      "name": "Gap · Terra Corduroy",
+      "url": "https://www.gap.com/browse/product.do?pid=913461022",
+      "verdict": "Quiet tonal pockets · corduroy",
+      "summary": "Flat tonal chest on-seam and lower hand pockets; visually low-profile.",
+      "image": "assets/images/jacket-mainstream-0-gallery-01.webp",
+      "imageAlt": "Gap · Terra Corduroy official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-mainstream-0-gallery-01.webp",
+          "alt": "jacket mainstream 0 — product photo 1",
+          "source": "https://content.gapinc.com/b/0063/563/887/cn63563887.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-0-gallery-02.webp",
+          "alt": "jacket mainstream 0 — product photo 2",
+          "source": "https://content.gapinc.com/b/0063/562/819/cn63562819.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-0-gallery-03.webp",
+          "alt": "jacket mainstream 0 — product photo 3",
+          "source": "https://content.gapinc.com/b/0063/562/842/cn63562842.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-0-gallery-04.webp",
+          "alt": "jacket mainstream 0 — product photo 4",
+          "source": "https://content.gapinc.com/b/0063/563/858/cn63563858.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-0-gallery-05.webp",
+          "alt": "jacket mainstream 0 — product photo 5",
+          "source": "https://content.gapinc.com/b/0063/576/046/cn63576046.png"
+        }
+      ],
+      "sortPriceUSD": 98,
+      "facts": {
+        "Outer fabric": "100% Cotton.",
+        "Price": "$98 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free.",
+        "Returns": "Exact online-order return terms not verified; inspect retailer policy before ordering."
+      },
+      "sources": [
+        "jacket-mainstream-0",
+        "jacket-mainstream-0-policies"
+      ]
+    },
+    {
+      "id": "jacket-workwear-1",
+      "name": "Time Catcher · Black A-2",
+      "url": "https://www.olderbest.com/products/a-2-moleskin-bomber-jacket-black?currency=USD&country=US",
+      "verdict": "Pocket compromise · larger lower flaps",
+      "summary": "Two tonal lower button-flap pockets plus additional waist/interior pockets; flaps noticeable, no chest pocket.",
+      "image": "assets/images/jacket-workwear-1-gallery-01.webp",
+      "imageAlt": "Time Catcher · Black A-2 official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-01.webp",
+          "alt": "jacket workwear 1 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_1af8a633-9455-4ea7-81ce-8cf4bd705325.jpg?v=1788921253"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-02.webp",
+          "alt": "jacket workwear 1 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_87203cf4-cf64-48d1-84c3-294f0c74446c.jpg?v=1788921254"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-03.webp",
+          "alt": "jacket workwear 1 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_faabfeaa-aa6b-4cbb-bd7a-be05da4d2a0a.jpg?v=1788921217"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-04.webp",
+          "alt": "jacket workwear 1 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_ca57e805-dc5f-4365-93ad-f6b37f01a1f8.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-05.webp",
+          "alt": "jacket workwear 1 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_c7583ed3-41c5-41c4-a951-9d5eb89d9338.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-06.webp",
+          "alt": "jacket workwear 1 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_ecda24d5-b81a-4295-be4b-fa6183980ece.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-07.webp",
+          "alt": "jacket workwear 1 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_82d92f38-5141-4873-9b7b-f75e9897e5f8.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-08.webp",
+          "alt": "jacket workwear 1 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_bb188c11-160d-4d4f-87f3-e582b9f9f037.jpg?v=1788921217"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-09.webp",
+          "alt": "jacket workwear 1 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_412458d8-1b57-4cb1-a478-a18293e52b67.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-10.webp",
+          "alt": "jacket workwear 1 — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_75482266-112e-467a-a19e-bd3f5935ffb1.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-11.webp",
+          "alt": "jacket workwear 1 — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_14a2273f-93a6-4d30-817f-04b077b165e4.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-12.webp",
+          "alt": "jacket workwear 1 — product photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_b9ce11f5-2cbe-429a-92c2-0f0f16cb28a7.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-13.webp",
+          "alt": "jacket workwear 1 — product photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/13_4c123403-5483-4269-9167-0d963be7da0f.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-14.webp",
+          "alt": "jacket workwear 1 — product photo 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/14_60208dd3-cbc1-457e-835e-7040d00d1ebe.jpg?v=1788921217"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-15.webp",
+          "alt": "jacket workwear 1 — product photo 15",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/15_cea8f72d-beb2-4165-be94-4f7d2f01abd1.jpg?v=1788921217"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-16.webp",
+          "alt": "jacket workwear 1 — product photo 16",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/16_fe985caa-acbe-4e9e-a185-9b2588059a9b.jpg?v=1788921216"
+        },
+        {
+          "src": "assets/images/jacket-workwear-1-gallery-17.webp",
+          "alt": "jacket workwear 1 — product photo 17",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/17_17575746-ef11-4b1a-8607-2948f8de716d.jpg?v=1788921216"
+        }
+      ],
+      "sortPriceUSD": 100.0,
+      "facts": {
+        "Outer fabric": "100% cotton, 11.8 oz moleskin",
+        "Price": "$100 · shipping/tax extra or unverified",
+        "Size / stock": "Black / S / Black / M available",
+        "Lining / trims": "Quarter lined with 100% cotton checked cloth; other trims unspecified. Product detail mistakenly says olive/taupe although title, selected option and images are black.",
+        "Returns": "30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified"
+      },
+      "sources": [
+        "jacket-workwear-1",
+        "jacket-workwear-1-policies"
+      ]
+    },
+    {
+      "id": "jacket-usbrands-3",
+      "name": "Rhythm · Chocolate Herringbone",
+      "url": "https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26",
+      "verdict": "Chocolate label; gray/taupe in photos",
+      "summary": "One tonal chest patch pocket; discreet side seam hand pockets.",
+      "image": "assets/images/jacket-usbrands-3-gallery-01.webp",
+      "imageAlt": "Rhythm · Chocolate Herringbone official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-01.webp",
+          "alt": "jacket usbrands 3 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE-1.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-02.webp",
+          "alt": "jacket usbrands 3 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0884.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-03.webp",
+          "alt": "jacket usbrands 3 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0858.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-04.webp",
+          "alt": "jacket usbrands 3 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0875.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-05.webp",
+          "alt": "jacket usbrands 3 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0890.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-06.webp",
+          "alt": "jacket usbrands 3 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0897.jpg?v=1788758886"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-3-gallery-07.webp",
+          "alt": "jacket usbrands 3 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK17-CHO-BUTA-HERRINGBONE-JACKET-CHOCOLATE_0903.jpg?v=1788758886"
+        }
+      ],
+      "sortPriceUSD": 120.0,
+      "facts": {
+        "Outer fabric": "100% cotton herringbone",
+        "Price": "$120 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Custom printed polyester lining; buttons and small Rhythm flag label.",
+        "Returns": "Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California"
+      },
+      "sources": [
+        "jacket-usbrands-3",
+        "jacket-usbrands-3-policies"
+      ]
+    },
+    {
+      "id": "jacket-mainstream-3",
+      "name": "Gap · Black Utility",
+      "url": "https://www.gap.com/browse/product.do?pid=904963002",
+      "verdict": "Hooded utility cut · tonal lower flaps",
+      "summary": "Lower tonal snap-flap patch pockets; hooded, no prominent chest pockets in inspected photo.",
+      "image": "assets/images/jacket-mainstream-3-gallery-01.webp",
+      "imageAlt": "Gap · Black Utility official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-mainstream-3-gallery-01.webp",
+          "alt": "jacket mainstream 3 — product photo 1",
+          "source": "https://content.gapinc.com/b/0063/333/749/cn63333749.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-3-gallery-02.webp",
+          "alt": "jacket mainstream 3 — product photo 2",
+          "source": "https://content.gapinc.com/b/0063/331/747/cn63331747.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-3-gallery-03.webp",
+          "alt": "jacket mainstream 3 — product photo 3",
+          "source": "https://content.gapinc.com/b/0063/331/748/cn63331748.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-3-gallery-04.webp",
+          "alt": "jacket mainstream 3 — product photo 4",
+          "source": "https://content.gapinc.com/b/0063/331/809/cn63331809.png"
+        },
+        {
+          "src": "assets/images/jacket-mainstream-3-gallery-05.webp",
+          "alt": "jacket mainstream 3 — product photo 5",
+          "source": "https://content.gapinc.com/b/0063/331/768/cn63331768.png"
+        }
+      ],
+      "sortPriceUSD": 128,
+      "facts": {
+        "Outer fabric": "70% Cotton, 30% Recycled Cotton.",
+        "Price": "$128 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free.",
+        "Returns": "Exact online-order return terms not verified; inspect retailer policy before ordering."
+      },
+      "sources": [
+        "jacket-mainstream-3",
+        "jacket-mainstream-3-policies"
+      ]
+    },
+    {
+      "id": "jacket-usbrands-4",
+      "name": "Rhythm · Tobacco James",
+      "url": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26",
+      "verdict": "Golden tobacco brown · discreet pockets",
+      "summary": "Two slim tonal lower welt pockets; no chest pockets.",
+      "image": "assets/images/jacket-usbrands-4-gallery-01.webp",
+      "imageAlt": "Rhythm · Tobacco James official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-01.webp",
+          "alt": "jacket usbrands 4 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-0023.jpg?v=1776987582"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-02.webp",
+          "alt": "jacket usbrands 4 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-1.jpg?v=1776987582"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-03.webp",
+          "alt": "jacket usbrands 4 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-2.jpg?v=1776987582"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-04.webp",
+          "alt": "jacket usbrands 4 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-3.jpg?v=1776987582"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-05.webp",
+          "alt": "jacket usbrands 4 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-4.jpg?v=1776987582"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-4-gallery-06.webp",
+          "alt": "jacket usbrands 4 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-5.jpg?v=1776987582"
+        }
+      ],
+      "sortPriceUSD": 130.0,
+      "facts": {
+        "Outer fabric": "100% cotton canvas",
+        "Price": "$130 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Contrast corduroy collar (separate fiber composition not stated); metal two-way zipper; lining fiber not specified.",
+        "Returns": "Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California"
+      },
+      "sources": [
+        "jacket-usbrands-4",
+        "jacket-usbrands-4-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-0",
+      "name": "Universal Works · Black NS Bomber",
+      "url": "https://universalworks.com/en-us/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+      "verdict": "S only · conspicuous back branding",
+      "summary": "Low-profile front handwarmer pockets; zipped sleeve utility pocket; note visible master-piece branding across upper back.",
+      "image": "assets/images/jacket-europe-0-gallery-01.webp",
+      "imageAlt": "Universal Works · Black NS Bomber official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-0-gallery-01.webp",
+          "alt": "jacket europe 0 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32122_broad-cloth-black_3_0c400e76-3539-4003-ad3b-895e8c24dbec.jpg?v=1753786448"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-02.webp",
+          "alt": "jacket europe 0 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32122_broadcloth-black_7.jpg?v=1753786448"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-03.webp",
+          "alt": "jacket europe 0 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32122_broad-cloth-black_1.jpg?v=1753786448"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-04.webp",
+          "alt": "jacket europe 0 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/MP32122_broad-cloth-black_2.jpg?v=1753786448"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-05.webp",
+          "alt": "jacket europe 0 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32122_broadcloth-black_3.jpg?v=1753786449"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-06.webp",
+          "alt": "jacket europe 0 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32122_broadcloth-black_4.jpg?v=1753786449"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-07.webp",
+          "alt": "jacket europe 0 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32122_broadcloth-black_6.jpg?v=1753786449"
+        },
+        {
+          "src": "assets/images/jacket-europe-0-gallery-08.webp",
+          "alt": "jacket europe 0 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/mp32122_broadcloth-black_5.jpg?v=1753786449"
+        }
+      ],
+      "sortPriceUSD": 142.0,
+      "facts": {
+        "Outer fabric": "100% cotton",
+        "Price": "$142 · shipping/tax extra or unverified",
+        "Size / stock": "S available",
+        "Lining / trims": "Fully lined in Aertex; lining fiber and rib fibers unspecified; zip/popper hardware; badges.",
+        "Returns": "30 days; US return shipping £15; unworn with tags; no exchanges during sale."
+      },
+      "sources": [
+        "jacket-europe-0",
+        "jacket-europe-0-policies"
+      ]
     },
     {
       "id": "jacket-la-canvas",
@@ -153,6 +868,130 @@
         "jacket-la-canvas",
         "jacket-la-canvas-delivery",
         "jacket-la-canvas-returns"
+      ],
+      "sortPriceUSD": 148
+    },
+    {
+      "id": "jacket-usbrands-5",
+      "name": "Bridge & Burn · Saddle Corduroy",
+      "url": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown",
+      "verdict": "Brown corduroy · larger tonal chest patches",
+      "summary": "Two large but tonal open chest patch pockets, no flaps; discreet lower hand pockets.",
+      "image": "assets/images/jacket-usbrands-5-gallery-01.webp",
+      "imageAlt": "Bridge & Burn · Saddle Corduroy official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-01.webp",
+          "alt": "jacket usbrands 5 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn69670a1cbd3a9669670a1cbd4df.1277461969670a1cbd4df.jpg?v=1772472430"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-02.webp",
+          "alt": "jacket usbrands 5 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9bcc2b56a42e3f9bcd12.087605596a42e3f9bcd12.jpg?v=1782768684"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-03.webp",
+          "alt": "jacket usbrands 5 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9e105386a42e3f9e12db.850107556a42e3f9e12db.jpg?v=1782768684"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-04.webp",
+          "alt": "jacket usbrands 5 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f97e39b56a42e3f97e4f9.481534316a42e3f97e4f9.jpg?v=1782768684"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-05.webp",
+          "alt": "jacket usbrands 5 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9d01de56a42e3f9d02f8.743271066a42e3f9d02f8.jpg?v=1782768684"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-5-gallery-06.webp",
+          "alt": "jacket usbrands 5 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9aa4ac36a42e3f9aa5b2.078221806a42e3f9aa5b2.jpg?v=1782768685"
+        }
+      ],
+      "sortPriceUSD": 148.0,
+      "facts": {
+        "Outer fabric": "100% cotton, 14-wale corduroy",
+        "Price": "$148 · shipping/tax extra or unverified",
+        "Size / stock": "Saddle Brown / S / Saddle Brown / M available",
+        "Lining / trims": "Separate lining not specified; button composition not specified.",
+        "Returns": "30 days from delivery, full-priced/new/unwashed/unworn"
+      },
+      "sources": [
+        "jacket-usbrands-5",
+        "jacket-usbrands-5-policies"
+      ]
+    },
+    {
+      "id": "jacket-usbrands-6",
+      "name": "Rhythm · Worn-Black Mirissa",
+      "url": "https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25",
+      "verdict": "Worn black reads faded charcoal",
+      "summary": "Two understated lower welt pockets; no chest pockets.",
+      "image": "assets/images/jacket-usbrands-6-gallery-01.webp",
+      "imageAlt": "Rhythm · Worn-Black Mirissa official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-01.webp",
+          "alt": "jacket usbrands 6 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK_ae3cec1c-300c-4580-9035-aa6cba9f5377.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-02.webp",
+          "alt": "jacket usbrands 6 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/DSF3330_955138f9-5620-45e9-8b9c-e61e3dd78c4f.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-03.webp",
+          "alt": "jacket usbrands 6 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/DSF3327-2_3f18d552-0e58-4817-9791-a597d1db3bc2.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-04.webp",
+          "alt": "jacket usbrands 6 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-3_f95925bf-2720-433e-9f8e-69163c00a9b0.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-05.webp",
+          "alt": "jacket usbrands 6 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-2_37fb3a68-91a8-44d9-a28a-10760b0ad364.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-06.webp",
+          "alt": "jacket usbrands 6 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-1_51bada2b-e89a-4101-9260-f5e4c5d9270e.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-07.webp",
+          "alt": "jacket usbrands 6 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-4_6d96c99b-d43f-4ac3-8719-54d6049ae1c6.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-08.webp",
+          "alt": "jacket usbrands 6 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-5_c4ac7708-df04-45bd-a5b7-fe2b816aa348.jpg?v=1786420286"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-6-gallery-09.webp",
+          "alt": "jacket usbrands 6 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD25M-JK09-BLK-MIRISSA-JACKET-WORN-BLACK-6_87605c94-2dd5-4580-a49f-60c725edb7b5.jpg?v=1786420286"
+        }
+      ],
+      "sortPriceUSD": 150.0,
+      "facts": {
+        "Outer fabric": "100% cotton denim",
+        "Price": "$150 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Leather collar; custom patterned internal lining with fiber unspecified. Tiny side brand tab.",
+        "Returns": "Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California"
+      },
+      "sources": [
+        "jacket-usbrands-6",
+        "jacket-usbrands-6-policies"
       ]
     },
     {
@@ -264,7 +1103,224 @@
           "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/16_b4b5c7d6-5d09-4233-9991-86ef69cad778.jpg?v=1789614974"
         }
       ],
-      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
+      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads.",
+      "sortPriceUSD": 150.99
+    },
+    {
+      "id": "jacket-europe-1",
+      "name": "KnowledgeCotton · Chocolate Structure",
+      "url": "https://knowledgecottonapparel.com/products/loose-structure-overshirt-chocolate-torte",
+      "verdict": "Clean chocolate-brown overshirt",
+      "summary": "Clean tonal front; pockets not clearly discernible in front gallery.",
+      "image": "assets/images/jacket-europe-1-gallery-01.webp",
+      "imageAlt": "KnowledgeCotton · Chocolate Structure official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-1-gallery-01.webp",
+          "alt": "jacket europe 1 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Loose_structure_overshirt-Overshirts-1190098-1487_Chocolate_Torte.jpg?v=1790596329"
+        },
+        {
+          "src": "assets/images/jacket-europe-1-gallery-02.webp",
+          "alt": "jacket europe 1 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Loose_structure_overshirt-Overshirts-1190098-1487_Chocolate_Torte-1.jpg?v=1790596329"
+        }
+      ],
+      "sortPriceUSD": 179.09,
+      "facts": {
+        "Outer fabric": "100% organic cotton",
+        "Price": "€160 (≈$179.09) · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.",
+        "Returns": "30-day cooling-off period"
+      },
+      "sources": [
+        "jacket-europe-1",
+        "jacket-europe-1-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-2",
+      "name": "KnowledgeCotton · Chocolate Herringbone",
+      "url": "https://knowledgecottonapparel.com/products/herringbone-overshirt-chocolate-torte",
+      "verdict": "Flat tonal pockets · chocolate brown",
+      "summary": "Tonal low-profile chest patch and front pockets; no prominent flap.",
+      "image": "assets/images/jacket-europe-2-gallery-01.webp",
+      "imageAlt": "KnowledgeCotton · Chocolate Herringbone official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-2-gallery-01.webp",
+          "alt": "jacket europe 2 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Herringbone_overshirt-Overshirts-1190100-1487_Chocolate_Torte.jpg?v=1790596413"
+        },
+        {
+          "src": "assets/images/jacket-europe-2-gallery-02.webp",
+          "alt": "jacket europe 2 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Herringbone_overshirt-Overshirts-1190100-1487_Chocolate_Torte-1.jpg?v=1790596414"
+        }
+      ],
+      "sortPriceUSD": 179.09,
+      "facts": {
+        "Outer fabric": "100% organic cotton",
+        "Price": "€160 (≈$179.09) · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.",
+        "Returns": "30-day cooling-off period"
+      },
+      "sources": [
+        "jacket-europe-2",
+        "jacket-europe-2-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-3",
+      "name": "KnowledgeCotton · Brown Houndstooth",
+      "url": "https://knowledgecottonapparel.com/products/houndtooth-zip-overshirt-dark-brown-check",
+      "verdict": "Brown/cream pattern · discreet pockets",
+      "summary": "Discreet side pockets; no chest pocket; brown/cream small houndstooth, not solid brown.",
+      "image": "assets/images/jacket-europe-3-gallery-01.webp",
+      "imageAlt": "KnowledgeCotton · Brown Houndstooth official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-3-gallery-01.webp",
+          "alt": "jacket europe 3 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Houndtooth_zip_overshirt-Overshirts-1190094-7035_Dark_Brown_check.jpg?v=1790596210"
+        },
+        {
+          "src": "assets/images/jacket-europe-3-gallery-02.webp",
+          "alt": "jacket europe 3 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Houndtooth_zip_overshirt-Overshirts-1190094-7035_Dark_Brown_check-1.jpg?v=1790596210"
+        },
+        {
+          "src": "assets/images/jacket-europe-3-gallery-03.webp",
+          "alt": "jacket europe 3 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Houndtooth_zip_overshirt-Overshirts-1190094-7035_Dark_Brown_check-2.jpg?v=1790596210"
+        },
+        {
+          "src": "assets/images/jacket-europe-3-gallery-04.webp",
+          "alt": "jacket europe 3 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Houndtooth_zip_overshirt-Overshirts-1190094-7035_Dark_Brown_check-3.jpg?v=1790596210"
+        },
+        {
+          "src": "assets/images/jacket-europe-3-gallery-05.webp",
+          "alt": "jacket europe 3 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/1190094_7035_narrow.jpg?v=1790618076"
+        },
+        {
+          "src": "assets/images/jacket-europe-3-gallery-06.webp",
+          "alt": "jacket europe 3 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/1190094_7035_wide.jpg?v=1790618076"
+        }
+      ],
+      "sortPriceUSD": 201.47,
+      "facts": {
+        "Outer fabric": "100% organic cotton",
+        "Price": "€180 (≈$201.47) · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.",
+        "Returns": "30-day cooling-off period"
+      },
+      "sources": [
+        "jacket-europe-3",
+        "jacket-europe-3-policies"
+      ]
+    },
+    {
+      "id": "jacket-workwear-7",
+      "name": "Annual Ring · Taupe Chambray",
+      "url": "https://www.olderbest.com/products/1900s-french-salt-pepper-striped-chambray-sack-jacket?currency=USD&country=US",
+      "verdict": "Gray-brown stripe · tailored lapels",
+      "summary": "Tonal lower patch pockets blend with fine stripes; tailored lapel style, grey-brown rather than rich brown.",
+      "image": "assets/images/jacket-workwear-7-gallery-01.webp",
+      "imageAlt": "Annual Ring · Taupe Chambray official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-01.webp",
+          "alt": "jacket workwear 7 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_1_5f5a6eb8-e348-451a-840a-ebd3ee78467f.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-02.webp",
+          "alt": "jacket workwear 7 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_1_16e22066-050d-4a8b-9414-6c62ca218543.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-03.webp",
+          "alt": "jacket workwear 7 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/products/3_fed4b61d-e8b9-4216-b5ff-e58b2b6f0343.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-04.webp",
+          "alt": "jacket workwear 7 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/products/4_2e028509-f8b5-4bbd-8863-8537f23a31bd.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-05.webp",
+          "alt": "jacket workwear 7 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/products/5_95905ac6-9754-4949-b1a2-6153a9cc6de9.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-06.webp",
+          "alt": "jacket workwear 7 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/products/6_d389db12-d3ed-4da7-90ed-b6342358b4e8.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-07.webp",
+          "alt": "jacket workwear 7 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_1_5fc1dcaf-fcc2-4bec-87cf-c0304d82315c.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-08.webp",
+          "alt": "jacket workwear 7 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_1.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-09.webp",
+          "alt": "jacket workwear 7 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_1.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-10.webp",
+          "alt": "jacket workwear 7 — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_1.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-11.webp",
+          "alt": "jacket workwear 7 — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_1_1f1e10b0-f4a7-4362-b8af-b17d328f485a.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-12.webp",
+          "alt": "jacket workwear 7 — product photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_1.jpg?v=1687917963"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-13.webp",
+          "alt": "jacket workwear 7 — product photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_1.jpg?v=1687917951"
+        },
+        {
+          "src": "assets/images/jacket-workwear-7-gallery-14.webp",
+          "alt": "jacket workwear 7 — product photo 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_1_42cb7354-bdc8-4764-af43-956c4fd616ec.jpg?v=1687917950"
+        }
+      ],
+      "sortPriceUSD": 202.89,
+      "facts": {
+        "Outer fabric": "100% cotton, Japanese 13 oz grey-brown striped salt-and-pepper chambray",
+        "Price": "$202.89 · shipping/tax extra or unverified",
+        "Size / stock": "Taupe Brown / S / Taupe Brown / M available",
+        "Lining / trims": "Striped jacquard cotton lining; retro alloy buttons; other trim fibers unspecified.",
+        "Returns": "30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified"
+      },
+      "sources": [
+        "jacket-workwear-7",
+        "jacket-workwear-7-policies"
+      ]
     },
     {
       "id": "jacket-la-corduroy",
@@ -344,6 +1400,135 @@
         "jacket-la-corduroy",
         "jacket-la-corduroy-delivery",
         "jacket-la-corduroy-returns"
+      ],
+      "sortPriceUSD": 220
+    },
+    {
+      "id": "jacket-usbrands-7",
+      "name": "Taylor Stitch · Soil Long Haul",
+      "url": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607",
+      "verdict": "Soil brown/olive cast · tonal denim flaps",
+      "summary": "Two tonal rounded flap chest pockets, noticeable but not contrasting; discreet welt hand pockets.",
+      "image": "assets/images/jacket-usbrands-7-gallery-01.webp",
+      "imageAlt": "Taylor Stitch · Soil Long Haul official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-01.webp",
+          "alt": "jacket usbrands 7 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/long-haul-jacket-in-soil-slub-denim-2607_001.jpg?v=1790611791"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-02.webp",
+          "alt": "jacket usbrands 7 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_02.jpg?v=1785177619"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-03.webp",
+          "alt": "jacket usbrands 7 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_03.jpg?v=1785177619"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-04.webp",
+          "alt": "jacket usbrands 7 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_04.jpg?v=1785177619"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-05.webp",
+          "alt": "jacket usbrands 7 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_05.jpg?v=1785177620"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-06.webp",
+          "alt": "jacket usbrands 7 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_06.jpg?v=1785177620"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-07.webp",
+          "alt": "jacket usbrands 7 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_07.jpg?v=1785177620"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-08.webp",
+          "alt": "jacket usbrands 7 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_08.jpg?v=1785177619"
+        },
+        {
+          "src": "assets/images/jacket-usbrands-7-gallery-09.webp",
+          "alt": "jacket usbrands 7 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_swatch.jpg?v=1785177619"
+        }
+      ],
+      "sortPriceUSD": 228.0,
+      "facts": {
+        "Outer fabric": "100% cotton, 11.75 oz slub denim",
+        "Price": "$228 · shipping/tax extra or unverified",
+        "Size / stock": "S - 38 / M - 40 available",
+        "Lining / trims": "6 oz 100% organic cotton pocketing; tack buttons/rivets; other trim fibers not specified.",
+        "Returns": "21 days from delivery; new/tagged/unworn/unwashed/unaltered"
+      },
+      "sources": [
+        "jacket-usbrands-7",
+        "jacket-usbrands-7-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-4",
+      "name": "Universal Works · Black Bakers",
+      "url": "https://universalworks.com/en-us/products/universal-works-bakers-jacket-in-black-twill-1",
+      "verdict": "Flat black patch pockets",
+      "summary": "Flat tonal black chest patch, lower patch pockets; no flap or bellows.",
+      "image": "assets/images/jacket-europe-4-gallery-01.webp",
+      "imageAlt": "Universal Works · Black Bakers official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-4-gallery-01.webp",
+          "alt": "jacket europe 4 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_1.jpg?v=1786463811"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-02.webp",
+          "alt": "jacket europe 4 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_model_1.jpg?v=1788276532"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-03.webp",
+          "alt": "jacket europe 4 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_model_2.jpg?v=1788276532"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-04.webp",
+          "alt": "jacket europe 4 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/30296BB-winter-twill-black.jpg?v=1744364243"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-05.webp",
+          "alt": "jacket europe 4 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_2.jpg?v=1786463811"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-06.webp",
+          "alt": "jacket europe 4 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_3.jpg?v=1786463811"
+        },
+        {
+          "src": "assets/images/jacket-europe-4-gallery-07.webp",
+          "alt": "jacket europe 4 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/00102_twill-black_4.jpg?v=1786463811"
+        }
+      ],
+      "sortPriceUSD": 229.0,
+      "facts": {
+        "Outer fabric": "100% cotton",
+        "Price": "$229 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Sleeve lining 100% polyester; button/thread composition unspecified.",
+        "Returns": "30 days; US return shipping £15; unworn with tags; no exchanges during sale."
+      },
+      "sources": [
+        "jacket-europe-4",
+        "jacket-europe-4-policies"
       ]
     },
     {
@@ -419,6 +1604,159 @@
         "jacket-taylor-coal",
         "jacket-taylor-coal-delivery",
         "jacket-taylor-coal-returns"
+      ],
+      "sortPriceUSD": 268
+    },
+    {
+      "id": "jacket-europe-5",
+      "name": "Wax London · Brown Healey",
+      "url": "https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket?currency=USD&country=US",
+      "verdict": "Dark-brown corduroy · unlined",
+      "summary": "Tonal dark-brown chest and lower flat patch pockets; more workwear-looking than pocketless designs.",
+      "image": "assets/images/jacket-europe-5-gallery-01.webp",
+      "imageAlt": "Wax London · Brown Healey official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-5-gallery-01.webp",
+          "alt": "jacket europe 5 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket.jpg?v=1787759177"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-02.webp",
+          "alt": "jacket europe 5 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-2.jpg?v=1787759181"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-03.webp",
+          "alt": "jacket europe 5 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-3.jpg?v=1787759185"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-04.webp",
+          "alt": "jacket europe 5 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-4.jpg?v=1787759188"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-05.webp",
+          "alt": "jacket europe 5 — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-5.jpg?v=1787759192"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-06.webp",
+          "alt": "jacket europe 5 — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-6.jpg?v=1787759197"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-07.webp",
+          "alt": "jacket europe 5 — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-7.jpg?v=1787759202"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-08.webp",
+          "alt": "jacket europe 5 — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-8.jpg?v=1787759207"
+        },
+        {
+          "src": "assets/images/jacket-europe-5-gallery-09.webp",
+          "alt": "jacket europe 5 — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-9.jpg?v=1787759210"
+        }
+      ],
+      "sortPriceUSD": 280.0,
+      "facts": {
+        "Outer fabric": "100% cotton corduroy",
+        "Price": "$280 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Unlined; hardware/thread composition unspecified.",
+        "Returns": "US-localized delivery/returns policy: $8 return fee deducted from refund; use US returns portal"
+      },
+      "sources": [
+        "jacket-europe-5",
+        "jacket-europe-5-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-6",
+      "name": "Portuguese Flannel · Brown Wool Labura",
+      "url": "https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3?currency=USD&country=US",
+      "verdict": "Brown/olive cast · visible tonal patch pockets",
+      "summary": "Tonal brown chest/lower flat patch pockets, outlines relatively visible; borderline under stricter low-noticeability reading.",
+      "image": "assets/images/jacket-europe-6-gallery-01.webp",
+      "imageAlt": "Portuguese Flannel · Brown Wool Labura official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-6-gallery-01.webp",
+          "alt": "jacket europe 6 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0787_7971d72c-6e66-45bf-9484-a44f12ca4836.jpg?v=1788962208"
+        },
+        {
+          "src": "assets/images/jacket-europe-6-gallery-02.webp",
+          "alt": "jacket europe 6 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0788_c1dee668-f854-4603-a4b1-e3b90c2df8db.jpg?v=1788962208"
+        },
+        {
+          "src": "assets/images/jacket-europe-6-gallery-03.webp",
+          "alt": "jacket europe 6 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0790_1309a84e-1b2d-40ea-a81d-d0766848a3e8.jpg?v=1788962209"
+        },
+        {
+          "src": "assets/images/jacket-europe-6-gallery-04.webp",
+          "alt": "jacket europe 6 — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0791_0feebca7-d347-43b7-b20f-fc47b4d4a682.jpg?v=1788962208"
+        }
+      ],
+      "sortPriceUSD": 313.0,
+      "facts": {
+        "Outer fabric": "100% virgin wool",
+        "Price": "$313 · shipping/tax extra or unverified",
+        "Size / stock": "S / M available",
+        "Lining / trims": "Horn buttons; lining/thread composition not disclosed.",
+        "Returns": "14 days from receipt, original condition with tags"
+      },
+      "sources": [
+        "jacket-europe-6",
+        "jacket-europe-6-policies"
+      ]
+    },
+    {
+      "id": "jacket-europe-7",
+      "name": "KnowledgeCotton · Chocolate Puffer",
+      "url": "https://knowledgecottonapparel.com/products/corduroy-puffer-jacket-chocolate-torte-1",
+      "verdict": "M only · padded corduroy",
+      "summary": "Discreet lower side pockets; no chest pocket; corduroy horizontal quilted puffer.",
+      "image": "assets/images/jacket-europe-7-gallery-01.webp",
+      "imageAlt": "KnowledgeCotton · Chocolate Puffer official image",
+      "imageNote": "Official selected-color retailer gallery. Names/colors are retailer labels; faded, patterned and gray/olive casts are disclosed.",
+      "images": [
+        {
+          "src": "assets/images/jacket-europe-7-gallery-01.webp",
+          "alt": "jacket europe 7 — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Corduroy_Puffer_Jacket-Jackets-1060085-1487_Chocolate_Torte.jpg?v=1790593162"
+        },
+        {
+          "src": "assets/images/jacket-europe-7-gallery-02.webp",
+          "alt": "jacket europe 7 — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Corduroy_Puffer_Jacket-Jackets-1060085-1487_Chocolate_Torte-1.jpg?v=1790593162"
+        },
+        {
+          "src": "assets/images/jacket-europe-7-gallery-03.webp",
+          "alt": "jacket europe 7 — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0601/1797/5218/files/Corduroy_Puffer_Jacket-Jackets-1060085-1487_Chocolate_Torte-2.jpg?v=1790593163"
+        }
+      ],
+      "sortPriceUSD": 335.73,
+      "facts": {
+        "Outer fabric": "100% organic cotton",
+        "Price": "€299.95 (≈$335.73) · shipping/tax extra or unverified",
+        "Size / stock": "M available",
+        "Lining / trims": "Insulation/fill and lining composition undisclosed; 100% organic cotton refers to advertised fabric, not proof of natural filling.",
+        "Returns": "30-day cooling-off period"
+      },
+      "sources": [
+        "jacket-europe-7",
+        "jacket-europe-7-policies"
       ]
     },
     {
@@ -493,7 +1831,8 @@
       "sources": [
         "jacket-suitsupply-cord",
         "jacket-suitsupply-cord-policy"
-      ]
+      ],
+      "sortPriceUSD": 349
     },
     {
       "id": "jacket-sunspel-wool",
@@ -553,7 +1892,8 @@
         "jacket-sunspel-wool",
         "jacket-sunspel-wool-delivery",
         "jacket-sunspel-wool-returns"
-      ]
+      ],
+      "sortPriceUSD": 690
     },
     {
       "id": "jacket-sunspel-tweed",
@@ -613,7 +1953,8 @@
         "jacket-sunspel-tweed",
         "jacket-sunspel-tweed-delivery",
         "jacket-sunspel-tweed-returns"
-      ]
+      ],
+      "sortPriceUSD": 850
     }
   ],
   "sources": [
@@ -777,8 +2118,316 @@
       "url": "https://suitsupply.com/en-us/men/coats/dark-brown-corduroy-bomber-jacket/J1058.html",
       "type": "Published policy",
       "note": "US page and structured data advertise free US delivery 3-6 business days. ZIP10016 not tested; tax not obtained. US structured policy: 30 days, free mail returns"
+    },
+    {
+      "id": "jacket-mainstream-0",
+      "title": "View Gap · Terra Corduroy",
+      "url": "https://www.gap.com/browse/product.do?pid=913461022",
+      "type": "Live exact product and size evidence",
+      "note": "100% Cotton. Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free. Live PDP price before advertised 40% off at checkout; checkout not exercised. Tax/shipping unknown. {\"http_status\": 200, \"final_url\": \"https://www.gap.com/browse/product.do?pid=913461022\", \"checked_at\": \"2026-10-14T21:15:27.702378+00:00\", \"method\": \"Live product HTML plus parsed Next.js server payload; exact customer_choice_id images and exact-prefix SKU inventory.\", \"sku_evidence\": [{\"sku_id\": \"9134610220001\", \"size\": \"S\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 98}, {\"sku_id\": \"9134610220002\", \"size\": \"M\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 98}], \"fabric_quote\": [\"100% Cotton.\", \"Machine wash cold. Tumble dry low.\", \"Imported.\"], \"details_quote\": [\"Soft cotton corduroy icon jacket. In a relaxed fit.\", \"Spread collar.\", \"Long sleeves with button cuffs.\", \"Button front.\", \"Back yoke seam.\", \"Chest on-seam pockets.\", \"Applied hand pockets at lower front.\", \"Button tabs at rear hem.\", \"Product #913461\"], \"gallery_scope\": \"All exact customer-choice images, original order, no recommendation images.\", \"visual_inspection\": \"Inspected contact sheet.\"}"
+    },
+    {
+      "id": "jacket-mainstream-0-policies",
+      "title": "Gap · Terra Corduroy · shipping / returns",
+      "url": "https://www.gap.com/browse/product.do?pid=913461022",
+      "type": "Published policy; not destination checkout",
+      "note": "US storefront supports shipping; PDP advertises free fast shipping on $50+ for Rewards Members. Destination/eligibility/cost not verified. Returns: Exact online-order return terms not verified; inspect retailer policy before ordering."
+    },
+    {
+      "id": "jacket-mainstream-1",
+      "title": "View Gap · Brown Gingham Zip",
+      "url": "https://www.gap.com/browse/product.do?pid=896365002",
+      "type": "Live exact product and size evidence",
+      "note": "100% Cotton. Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free. Live PDP price before advertised 40% off at checkout; checkout not exercised. Tax/shipping unknown. {\"http_status\": 200, \"final_url\": \"https://www.gap.com/browse/product.do?pid=896365002\", \"checked_at\": \"2026-10-14T21:15:27.723744+00:00\", \"method\": \"Live product HTML plus parsed Next.js server payload; exact customer_choice_id images and exact-prefix SKU inventory.\", \"sku_evidence\": [{\"sku_id\": \"8963650020001\", \"size\": \"S\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 64.99}, {\"sku_id\": \"8963650020002\", \"size\": \"M\", \"inventory_status\": {\"status\": \"LOW_STOCK\", \"estimated_ship_ts\": null}, \"price\": 64.99}], \"fabric_quote\": [\"100% Cotton.\", \"Machine wash cold, gentle cycle. Tumble dry low. \", \"Imported.\"], \"details_quote\": [\"Soft, textured seersucker cotton full-zip shirt jacket. In a relaxed fit.\", \"Spread collar, zipper front.\", \"Long sleeves with button cuffs.\", \"Front patch pockets.\", \"Allover gingham print.\", \"This product was made in a factory that invests in gender equity and women’s empowerment through RISE. Learn more at <a href=\\\"https://www.gapinc.com/en-us/impact/bridging-the-equity-gap\\\"><u>gapinc.com/equity</u></a>.\", \"Product #896365\"], \"gallery_scope\": \"All exact customer-choice images, original order, no recommendation images.\", \"visual_inspection\": \"Inspected contact sheet.\"}"
+    },
+    {
+      "id": "jacket-mainstream-1-policies",
+      "title": "Gap · Brown Gingham Zip · shipping / returns",
+      "url": "https://www.gap.com/browse/product.do?pid=896365002",
+      "type": "Published policy; not destination checkout",
+      "note": "US storefront supports shipping; PDP advertises free fast shipping on $50+ for Rewards Members. Destination/eligibility/cost not verified. Returns: Exact online-order return terms not verified; inspect retailer policy before ordering."
+    },
+    {
+      "id": "jacket-mainstream-4",
+      "title": "View Gap · Washed-Black Denim",
+      "url": "https://www.gap.com/browse/product.do?pid=819649002",
+      "type": "Live exact product and size evidence",
+      "note": "Cotton 100% Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free. Live PDP price before advertised 40% off at checkout; checkout not exercised. Tax/shipping unknown. {\"http_status\": 200, \"final_url\": \"https://www.gap.com/browse/product.do?pid=819649002\", \"checked_at\": \"2026-10-14T21:15:27.800423+00:00\", \"method\": \"Live product HTML plus parsed Next.js server payload; exact customer_choice_id images and exact-prefix SKU inventory.\", \"sku_evidence\": [{\"sku_id\": \"8196490020001\", \"size\": \"S\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 89.95}, {\"sku_id\": \"8196490020002\", \"size\": \"M\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 89.95}], \"fabric_quote\": [\"Cotton 100%\", \"Machine wash.\", \"Imported.\"], \"details_quote\": [\"Authentic, no stretch oversized denim jacket.\", \"Point collar, button front.\", \"Long sleeves, button cuffs.\", \"Medium wash.\", \"Button-flap patch pockets at chest, slant welt pockets at hip.\", \"Button-tabs at rear hem.\", \"Responsibly Made: This denim jacket is part of our water-saving Washwell program. Compared with conventional wash methods, Washwell uses at least 20% less water.\", \"This product was made in a factory that invests in gender equality and women’s empowerment. Through RISE (Reimagining Industry to Support Equality) and Gap Inc.’s program P.A.C.E. (Personal Advancement & Career Enhancement), we support people who make our clothes to build the skills, knowledge, confidence, and resilience needed to advance in work and life. Learn more <a href=\\\"https://www.gapinc.com/en-us/values/sustainability/empowering-women/p-a-c-e-and-rise\\\" target=\\\"_blank\\\"><u>here</u></a>.\", \"Product #734196\"], \"gallery_scope\": \"All exact customer-choice images, original order, no recommendation images.\", \"visual_inspection\": \"Inspected contact sheet.\"}"
+    },
+    {
+      "id": "jacket-mainstream-4-policies",
+      "title": "Gap · Washed-Black Denim · shipping / returns",
+      "url": "https://www.gap.com/browse/product.do?pid=819649002",
+      "type": "Published policy; not destination checkout",
+      "note": "US storefront supports shipping; PDP advertises free fast shipping on $50+ for Rewards Members. Destination/eligibility/cost not verified. Returns: Exact online-order return terms not verified; inspect retailer policy before ordering."
+    },
+    {
+      "id": "jacket-mainstream-3",
+      "title": "View Gap · Black Utility",
+      "url": "https://www.gap.com/browse/product.do?pid=904963002",
+      "type": "Live exact product and size evidence",
+      "note": "70% Cotton, 30% Recycled Cotton. Separate lining, thread, buttons and trim composition not disclosed in retrieved product fabric section. Do not interpret cotton shell as wholly plastic-free. Live PDP price before advertised 40% off at checkout; checkout not exercised. Tax/shipping unknown. {\"http_status\": 200, \"final_url\": \"https://www.gap.com/browse/product.do?pid=904963002\", \"checked_at\": \"2026-10-14T21:15:27.770513+00:00\", \"method\": \"Live product HTML plus parsed Next.js server payload; exact customer_choice_id images and exact-prefix SKU inventory.\", \"sku_evidence\": [{\"sku_id\": \"9049630020001\", \"size\": \"S\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 128}, {\"sku_id\": \"9049630020002\", \"size\": \"M\", \"inventory_status\": {\"status\": \"IN_STOCK\", \"estimated_ship_ts\": null}, \"price\": 128}], \"fabric_quote\": [\"70% Cotton, 30% Recycled Cotton.\", \"Machine wash cold, gentle cycle. Tumble dry low. \", \"Imported.\"], \"details_quote\": [\"Smooth cotton utility jacket. In an oversized fit.\", \"Hooded neckline with drawcords.\", \"Long sleeves with drop shoulders and snap button closures.\", \"Concealed zipper front beneath full snap button placket.\", \"Front and back yoke seam.\", \"Front snap button-flap patch pockets.\", \"Drawcords at hem.\", \"Made with 30% recycled cotton. Compared to virgin materials, using recycled materials helps reduce resource use and waste.\", \"Product #904963\"], \"gallery_scope\": \"All exact customer-choice images, original order, no recommendation images.\", \"visual_inspection\": \"Inspected contact sheet.\"}"
+    },
+    {
+      "id": "jacket-mainstream-3-policies",
+      "title": "Gap · Black Utility · shipping / returns",
+      "url": "https://www.gap.com/browse/product.do?pid=904963002",
+      "type": "Published policy; not destination checkout",
+      "note": "US storefront supports shipping; PDP advertises free fast shipping on $50+ for Rewards Members. Destination/eligibility/cost not verified. Returns: Exact online-order return terms not verified; inspect retailer policy before ordering."
+    },
+    {
+      "id": "jacket-mainstream-5",
+      "title": "View MUJI · Brown-Check Flannel",
+      "url": "https://www.muji.us/products/flannel-zip-blouson-ac24p26a?variant=47627329994942",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton No separate lining or trim fiber composition disclosed; zipper present.  {\"http_status\": 200, \"final_url\": \"https://www.muji.us/products/flannel-zip-blouson-ac24p26a\", \"checked_at\": \"2026-10-14T21:15:27.801781+00:00\", \"method\": \"Live PDP Material & Care plus Shopify products.json variants and exact-product .js gallery alt labels.\", \"variant_evidence\": [{\"id\": 47627329994942, \"title\": \"Brown Check / S\", \"available\": true, \"price\": \"89.90\"}, {\"id\": 47627330027710, \"title\": \"Brown Check / M\", \"available\": true, \"price\": \"89.90\"}], \"gallery_scope\": \"All images explicitly alt-labeled exact color; generic hero omitted because unlabeled color.\", \"visual_inspection\": \"Inspected contact sheet.\", \"material_evidence_url\": \"https://www.muji.us/products/flannel-zip-blouson-ac24p26a\", \"variant_gallery_evidence_url\": \"https://www.muji.us/products/flannel-zip-blouson-ac24p26a.js\"}"
+    },
+    {
+      "id": "jacket-mainstream-5-policies",
+      "title": "MUJI · Brown-Check Flannel · shipping / returns",
+      "url": "https://www.muji.us/products/flannel-zip-blouson-ac24p26a?variant=47627329994942",
+      "type": "Published policy; not destination checkout",
+      "note": "US storefront in USD, US delivery supported. Destination shipping charge and delivery date unknown. Returns: Within 30 days of delivery, unused in original packaging with original tags. US-address orders can generate free return label. Source https://www.muji.us/pages/return-policy"
+    },
+    {
+      "id": "jacket-usbrands-1",
+      "title": "View Dickies · Black Duck Eisenhower",
+      "url": "https://www.dickies.com/products/insulated-duck-eisenhower-jacket-dk0ydfwj01mblk",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton duck canvas (product-page material field) Quilted lining and insulation, fibers unspecified; contrasting corduroy-look collar; metal zipper.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://www.dickies.com/en-us/products/insulated-duck-eisenhower-jacket-dk0ydfwj01mblk\", \"stock_source\": \"https://www.dickies.com/products/insulated-duck-eisenhower-jacket-dk0ydfwj01mblk.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton duck canvas (product-page material field)\", \"product_description\": \" Insulated Eisenhower jacket featuring a durable duck canvas shell, quilted lining, adjustable waist tabs, and functional work pockets for dependable warmth and everyday jobsite durability. \", \"options\": [{\"name\": \"Color\", \"position\": 1, \"values\": [\"Black (BLK)\"]}, {\"name\": \"Size\", \"position\": 2, \"values\": [\"S\", \"M\", \"L\", \"XL\", \"2XL\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Affordable clean-front alternative, but visible small contrast hem logo; not logo-free.\", \"return_source\": \"https://www.dickies.com/en-us/pages/returns\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-1-policies",
+      "title": "Dickies · Black Duck Eisenhower · shipping / returns",
+      "url": "https://www.dickies.com/products/insulated-duck-eisenhower-jacket-dk0ydfwj01mblk",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Policy lists $10 contiguous-US ground below free-shipping threshold (5–7 business days); banner says $99+, policy says over $100. Returns: 30 days from purchase; new/unwashed/unworn/unaltered. Original-payment refund (gift card fallback if payment refund impossible); return-label fee not stated."
+    },
+    {
+      "id": "jacket-usbrands-3",
+      "title": "View Rhythm · Chocolate Herringbone",
+      "url": "https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton herringbone Custom printed polyester lining; buttons and small Rhythm flag label.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26\", \"stock_source\": \"https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton herringbone\", \"product_description\": \" Built for cooler coastal days, the Buta Herringbone Jacket is crafted from washed cotton herringbone for a textured feel and vintage-inspired finish. Featuring a custom printed polyester lining, button front closure, adjustable cuffs and practical side seam hand pockets, this relaxed layer is finished with a chest patch pocket and subtle Rhythm branding. ---- Material 100% Cotton ---- Features Washed Cotton Herringbone Custom Printed Polyester Lining Cf Button Closure Cuff Adjustment Side Seam Hand Pockets Lhs Chest Patch Pocket Rhythm Flag Label Garment Wash For A Vintage Hand Feel ---- Size & Fit Jay wears a size M and 30. Measurements are as follows: Height 189 cm Waist 77cm Chest 96.5cm \", \"options\": [{\"name\": \"SIZE\", \"position\": 1, \"values\": [\"XS\", \"S\", \"M\", \"L\", \"XL\", \"XXL\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Listed Chocolate, but flat-lay reads muted gray/taupe rather than rich brown; show gallery for user color judgment.\", \"return_source\": \"https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-3-policies",
+      "title": "Rhythm · Chocolate Herringbone · shipping / returns",
+      "url": "https://rhythmlivin.com/products/buta-herringbone-jacket-chocolate-cd26",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Policy advertises US shipping free over $100, from California warehouse. Returns: Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California. All sale items final; initiate via support@rhythmlivin.com."
+    },
+    {
+      "id": "jacket-usbrands-4",
+      "title": "View Rhythm · Tobacco James",
+      "url": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton canvas Contrast corduroy collar (separate fiber composition not stated); metal two-way zipper; lining fiber not specified.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://rhythmlivin.com/products/james-jacket-tobacco-smu26\", \"stock_source\": \"https://rhythmlivin.com/products/james-jacket-tobacco-smu26.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton canvas\", \"product_description\": \" A timeless staple, the James Jacket in Tobacco blends utility with elevated design. Cut in a standard fit, it features a contrast corduroy collar, durable metal two-way zipper, and hand welt pockets, offering a versatile layer that transitions seamlessly through the seasons. ---- Material 100% Cotton Canvas ---- Features Standard Fit Contrast Corduroy Collar Metal 2-Way Zipper Hand Welt Pockets ---- Size & Fit Noah wears a size M and 32. Measurements are as follows: Height 185 cm Chest 94 cm Waist 80 cm \", \"options\": [{\"name\": \"SIZE\", \"position\": 1, \"values\": [\"XS\", \"S\", \"M\", \"L\", \"XL\", \"XXL\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Golden tobacco/caramel brown body with dark brown collar; strongest clean-front match.\", \"return_source\": \"https://rhythmlivin.com/products/james-jacket-tobacco-smu26\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-4-policies",
+      "title": "Rhythm · Tobacco James · shipping / returns",
+      "url": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Policy advertises US shipping free over $100, from California warehouse. Returns: Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California. All sale items final; initiate via support@rhythmlivin.com."
+    },
+    {
+      "id": "jacket-usbrands-5",
+      "title": "View Bridge & Burn · Saddle Corduroy",
+      "url": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton, 14-wale corduroy Separate lining not specified; button composition not specified.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown\", \"stock_source\": \"https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton, 14-wale corduroy\", \"product_description\": \" The Banks shirt jacket delivers the perfect blend of rugged style and everyday comfort. Drawing inspiration from classic workwear, this versatile piece is designed to effortlessly transition from outdoor adventures to casual outings, making it an essential addition to your wardrobe. 14 wale corduroy Patch pockets at chest Roomy hand pockets 100% Cotton Machine wash cold with mild detergent. Line dry or tumble dry low. Do not iron. Do not bleach. \", \"options\": [{\"name\": \"Color\", \"position\": 1, \"values\": [\"Saddle Brown\"]}, {\"name\": \"Size\", \"position\": 2, \"values\": [\"S\", \"M\", \"L\", \"XL\", \"XXL\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Warm reddish chestnut brown; pockets clearly outlined but tonal.\", \"return_source\": \"https://www.bridgeandburn.com/pages/redo-returns-and-exchanges\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-5-policies",
+      "title": "Bridge & Burn · Saddle Corduroy · shipping / returns",
+      "url": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Policy advertises domestic shipping free on $125+. Returns: 30 days from delivery, full-priced/new/unwashed/unworn. $9.99 return-label deduction unless optional $2.18 Re:do purchased; final sale excluded."
+    },
+    {
+      "id": "jacket-usbrands-6",
+      "title": "View Rhythm · Worn-Black Mirissa",
+      "url": "https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton denim Leather collar; custom patterned internal lining with fiber unspecified. Tiny side brand tab.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25\", \"stock_source\": \"https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton denim\", \"product_description\": \"Inspired by classic workwear, this 100% cotton denim jacket features a washed black finish for a worn-in look and feel, making it a timeless layering piece for any season. ---- Material 100% Cotton ---- Features Leather collar Custom internal lining Dual front pockets ---- Size & Fit Emilio wears size Medium in all tops and size 32 in all bottoms. His measurements are as follows: Height 185cm Chest 105cm Waist 81cm \", \"options\": [{\"name\": \"SIZE\", \"position\": 1, \"values\": [\"XS\", \"S\", \"M\", \"L\", \"XL\", \"XXL\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Worn Black is visibly faded charcoal, not jet black. Leather collar is trim, not textile shell.\", \"return_source\": \"https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-6-policies",
+      "title": "Rhythm · Worn-Black Mirissa · shipping / returns",
+      "url": "https://rhythmlivin.com/products/mirissa-jacket-worn-black-cd25",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Policy advertises US shipping free over $100, from California warehouse. Returns: Full-price returns must reach warehouse within 30 days of purchase; customer pays return shipping to California. All sale items final; initiate via support@rhythmlivin.com."
+    },
+    {
+      "id": "jacket-usbrands-7",
+      "title": "View Taylor Stitch · Soil Long Haul",
+      "url": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton, 11.75 oz slub denim 6 oz 100% organic cotton pocketing; tack buttons/rivets; other trim fibers not specified.  {\"checked_at_utc\": \"2026-10-14T21:13:10.725062+00:00\", \"product_http_status\": 200, \"final_url\": \"https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607\", \"stock_source\": \"https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607.js\", \"stock_method\": \"Live Shopify product variants available=true for exact S/M and selected single color; exact IDs preserved.\", \"material_quote\": \"100% cotton, 11.75 oz slub denim\", \"product_description\": \" The Long Haul Jacket in Soil Slub Denim from Taylor Stitch 11.75-oz. 100% cotton slub denim. 6-oz. 100% organic cotton SF Map pocketing. Garment dyed and washed for a soft, lived-in feel. Two rounded patch chest pockets. Left pocket features a pen sleeve. Front welt hand-warmer pockets. Two interior pockets at waist level. Zig-zag reinforcement stitching on under collar and front placket. Tack buttons and rivets to last you a lifetime. Wash cold and tumble dry low. Made in Vietnam. \", \"options\": [{\"name\": \"Size\", \"position\": 1, \"values\": [\"XS - 36\", \"S - 38\", \"M - 40\", \"L - 42\", \"XL - 44\", \"XXL - 46\"]}], \"gallery_scope\": \"All images in selected-color product JSON images array, source order; options contain only one color plus sizes, or sizes only. No recommendation images.\", \"visual_review\": \"Manufacturer Soil/brown; photograph reads very dark earthy charcoal-brown. Above preferred $200.\", \"return_source\": \"https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607\", \"exact_stock_rechecked\": true}"
+    },
+    {
+      "id": "jacket-usbrands-7-policies",
+      "title": "Taylor Stitch · Soil Long Haul · shipping / returns",
+      "url": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607",
+      "type": "Published policy; not destination checkout",
+      "note": "10016 shipping cost, delivery date, and tax NOT checkout-verified. Product page advertises free domestic shipping for in-stock items; up to two business days fulfillment. Returns: 21 days from delivery; new/tagged/unworn/unwashed/unaltered. Free continental-US return shipping; Last Call excluded."
+    },
+    {
+      "id": "jacket-europe-0",
+      "title": "View Universal Works · Black NS Bomber",
+      "url": "https://universalworks.com/en-us/products/universal-works-ns-bomber-jacket-in-black-broadcloth",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton Fully lined in Aertex; lining fiber and rib fibers unspecified; zip/popper hardware; badges.  {\"verified_at\": \"2026-10-14T21:13:08.089474+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://universalworks.com/en-us/products/universal-works-ns-bomber-jacket-in-black-broadcloth.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"USD\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" A loose fit, classic bomber with a military feel, thanks to the arm stash pocket, articulated sleeves, Aertex lining and master-piece x UW badges. The popper and zip front means you can style this however you like. \\n   \\n Broadcloth is a poplin-like plain weave fabric, in 100% cotton. Simple and honest but robust, it has that classic lightweight, summery feel. \\n   \\n • Product code: MP3212 \\n • Self stripe soft ribbing. \\n • Large hand warmer pockets. \\n • Zipped utility stash pocket on the sleeve. \\n • Partially concealed two-way zip front closure with metal pop studs. \\n • Fully lined. \\n • Articulated sleeves. \\n • Fabric Content: 100% Cotton. \\n • Washcare: Wash at 30 degrees. Do not bleach. Do not tumble dry. Warm iron. Do not dry clean. Wash like colours together. Do not iron decoration. \\n • Please be aware that the measurements below are technical measurements that are based on the garment laid flat and are useful as a general guide only. \\n \\n \\n \\n  Measured in Centimetres.  \\n XS \\n S \\n M \\n L \\n XL \\n XXL \\n XXXL \\n \\n \\n \\n Centre Back Length. \\n \\n 61.5 \\n 63.5 \\n 65.5 \\n 67.5 \\n 69.5 \\n 71.5 \\n 73.5 \\n \\n \\n Chest Width - 2.5cm Below Armhole. \\n 59.5 \\n 62 \\n 64.5 \\n 67 \\n 69.5 \\n 72 \\n 74.5 \\n \\n \\n Sleeve Length - From Shoulder (inc. Cuff.) \\n 60.5 \\n 62 \\n 63.5 \\n 65 \\n 66.5 \\n 68 \\n 69.5 \\n \\n \\n Across Shoulders. \\n 48 \\n 50 \\n 52 \\n 54 \\n 56 \\n 58 \\n 60 \\n \\n \\n \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-0-policies",
+      "title": "Universal Works · Black NS Bomber · shipping / returns",
+      "url": "https://universalworks.com/pages/delivery-and-shipping",
+      "type": "Published policy; not destination checkout",
+      "note": "US localized product remains available. USA policy: $10 standard plus tax, 3–4 working days from dispatch; free over $500. Import duties may apply; exact checkout total not verified. Returns: 30 days; US return shipping £15; unworn with tags; no exchanges during sale."
+    },
+    {
+      "id": "jacket-europe-1",
+      "title": "View KnowledgeCotton · Chocolate Structure",
+      "url": "https://knowledgecottonapparel.com/products/loose-structure-overshirt-chocolate-torte",
+      "type": "Live exact product and size evidence",
+      "note": "100% organic cotton Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.  {\"verified_at\": \"2026-10-14T21:13:08.096228+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://knowledgecottonapparel.com/products/loose-structure-overshirt-chocolate-torte.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"EUR\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" This shirt combines subtle texture with a clean, modern design, making it a versatile addition to any wardrobe. Crafted in a regular fit, it offers a comfortable silhouette that allows easy movement while maintaining a neat appearance. The button-front closure and classic collar add timeless appeal, while the structured fabric enhances its refined look. Perfect for both casual and smart occasions, it pairs effortlessly with a variety of everyday outfits.  Style no.: 1190098 Color: Chocolate Torte Quality: 100% Organic Cotton Washing instructions: Care: 30° normal wash, Do not bleach, do not tumble dry, iron at low temperature, do not dryclean \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-1-policies",
+      "title": "KnowledgeCotton · Chocolate Structure · shipping / returns",
+      "url": "https://knowledgecottonapparel.com/pages/delivery-and-returns",
+      "type": "Published policy; not destination checkout",
+      "note": "Localized page: delivery to United States in 2–5 business days, home delivery €30. DAP: import duties/taxes not included; exact checkout total unknown. Returns: 30-day cooling-off period. US customer pays and arranges return shipment; prepaid label unavailable. Return cost unknown. Native EUR pricing; USD estimate uses EUR/USD 1.119295 from Wed, 14 Oct 2026 00:02:32 +0000. Conversion is not a checkout quote."
+    },
+    {
+      "id": "jacket-europe-2",
+      "title": "View KnowledgeCotton · Chocolate Herringbone",
+      "url": "https://knowledgecottonapparel.com/products/herringbone-overshirt-chocolate-torte",
+      "type": "Live exact product and size evidence",
+      "note": "100% organic cotton Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.  {\"verified_at\": \"2026-10-14T21:13:08.098749+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://knowledgecottonapparel.com/products/herringbone-overshirt-chocolate-torte.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"EUR\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" This refined jacket blends utility with a clean, contemporary look. Designed in a regular fit, it offers a comfortable and easy silhouette that layers well over everyday outfits. The button-front closure and structured collar provide a classic touch, while the spacious front pockets add practical functionality. Crafted for versatility, it transitions effortlessly between casual and smart settings, making it a dependable choice for modern, everyday wear.  Style no.: 1190100 Color: Chocolate Torte Quality: 100% Organic Cotton Washing instructions: Care: 30° normal wash, Do not bleach, do not tumble dry, iron at low temperature, do not dryclean \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-2-policies",
+      "title": "KnowledgeCotton · Chocolate Herringbone · shipping / returns",
+      "url": "https://knowledgecottonapparel.com/pages/delivery-and-returns",
+      "type": "Published policy; not destination checkout",
+      "note": "Localized page: delivery to United States in 2–5 business days, home delivery €30. DAP: import duties/taxes not included; exact checkout total unknown. Returns: 30-day cooling-off period. US customer pays and arranges return shipment; prepaid label unavailable. Return cost unknown. Native EUR pricing; USD estimate uses EUR/USD 1.119295 from Wed, 14 Oct 2026 00:02:32 +0000. Conversion is not a checkout quote."
+    },
+    {
+      "id": "jacket-europe-3",
+      "title": "View KnowledgeCotton · Brown Houndstooth",
+      "url": "https://knowledgecottonapparel.com/products/houndtooth-zip-overshirt-dark-brown-check",
+      "type": "Live exact product and size evidence",
+      "note": "100% organic cotton Lining, thread and trims not disclosed; do not infer whole-garment plastic-free.  {\"verified_at\": \"2026-10-14T21:13:08.101333+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://knowledgecottonapparel.com/products/houndtooth-zip-overshirt-dark-brown-check.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"EUR\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" This stylish jacket delivers a modern take on a classic patterned design. Cut in a regular fit, it offers a comfortable silhouette that layers easily over everyday outfits. The zip-front closure adds a contemporary edge, while the structured collar enhances its refined look. Side pockets provide practical functionality, making it as useful as it is versatile. Perfect for elevating casual wear, this piece brings character and ease to your wardrobe rotation.  Style no.: 1190094 Color: Dark Brown check Quality: 100% Organic Cotton Washing instructions: Care: 30° normal wash, Do not bleach, do not tumble dry, iron at low temperature, do not dryclean \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-3-policies",
+      "title": "KnowledgeCotton · Brown Houndstooth · shipping / returns",
+      "url": "https://knowledgecottonapparel.com/pages/delivery-and-returns",
+      "type": "Published policy; not destination checkout",
+      "note": "Localized page: delivery to United States in 2–5 business days, home delivery €30. DAP: import duties/taxes not included; exact checkout total unknown. Returns: 30-day cooling-off period. US customer pays and arranges return shipment; prepaid label unavailable. Return cost unknown. Native EUR pricing; USD estimate uses EUR/USD 1.119295 from Wed, 14 Oct 2026 00:02:32 +0000. Conversion is not a checkout quote."
+    },
+    {
+      "id": "jacket-europe-4",
+      "title": "View Universal Works · Black Bakers",
+      "url": "https://universalworks.com/en-us/products/universal-works-bakers-jacket-in-black-twill-1",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton Sleeve lining 100% polyester; button/thread composition unspecified.  {\"verified_at\": \"2026-10-14T21:13:08.111662+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://universalworks.com/en-us/products/universal-works-bakers-jacket-in-black-twill-1.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"USD\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" The original and still the best, classic work jacket. \\n   \\n Exclusive UW Fabric; 3/1 Twill Weave. \\n   \\n • Product Code: 00102. \\n • Regular fit. \\n • Five button-front. \\n • Two lower patch pockets. \\n • One chest patch pocket. \\n • One internal chest pocket & one internal hip pocket. \\n • Fabric Content: Outer: 100% Cotton. Sleeve Lining: 100% Polyester. \\n • Washcare: Wash at 30 degrees. Do not bleach. Do not tumble dry. Warm iron. Do not dry clean. Wash like colours together. \\n   \\n Please be aware if purchasing as a suit, that jackets and trousers are not necessarily cut from a single piece of cloth and therefore minor variations could be possible. Exchanges can be made for any two or three pieces not pairing perfectly. \\n [sizing] \\n Please be aware that the measurements below are technical measurements that are based on the garment laid  flat  and are useful as a general guide only. \\n   \\n For advice on sizing, we have a small guide available     here   - or alternatively,     contact us     if you'd like any help. \\n   \\n \\n \\n \\n  Measured in Centimetres.  \\n XS \\n S \\n M \\n L \\n XL \\n XXL \\n XXXL \\n \\n \\n \\n Centre Back Length. \\n \\n 69.5 \\n \\n 71.5 \\n \\n 73.5 \\n \\n 75.5 \\n \\n 77.5 \\n \\n 79.5 \\n \\n 81.5 \\n \\n \\n \\n Chest Width - 2.5cm Below Armhole. \\n 50.5 \\n \\n 53 \\n \\n 55.5 \\n \\n 58 \\n \\n 60.5 \\n \\n 63 \\n \\n 65.5 \\n \\n \\n \\n Sleeve Length - From Shoulder (Inc. Cuff). \\n 61.5 \\n 63 \\n 64.5 \\n 66 \\n 67.5 \\n 69 \\n 70.5 \\n \\n \\n Across Shoulders. \\n 42 \\n 44 \\n 46 \\n 48 \\n 50 \\n 52 \\n 54 \\n \\n \\n \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-4-policies",
+      "title": "Universal Works · Black Bakers · shipping / returns",
+      "url": "https://universalworks.com/pages/delivery-and-shipping",
+      "type": "Published policy; not destination checkout",
+      "note": "US localized product remains available. USA policy: $10 standard plus tax, 3–4 working days from dispatch; free over $500. Import duties may apply; exact checkout total not verified. Returns: 30 days; US return shipping £15; unworn with tags; no exchanges during sale."
+    },
+    {
+      "id": "jacket-europe-5",
+      "title": "View Wax London · Brown Healey",
+      "url": "https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket?currency=USD&country=US",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton corduroy Unlined; hardware/thread composition unspecified.  {\"verified_at\": \"2026-10-14T21:13:08.143136+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"USD\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" A Wax take on a classic workwear silhouette, the Healey is crafted from 100% cotton corduroy for a soft handle with subtle texture. Cut in a regular fit and left unlined for easy layering, it’s finished with twin-stitch detailing throughout and a clean, functional design built for everyday wear. \\n \\n 100% cotton corduroy for a soft, textured finish \\n Twin-stitch detailing throughout \\n Internal patch pocket for added practicality \\n Regular fit for comfortable everyday layering \\n \\n \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-5-policies",
+      "title": "Wax London · Brown Healey · shipping / returns",
+      "url": "https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket",
+      "type": "Published policy; not destination checkout",
+      "note": "US-localized page says shipping from US, no duties; free shipping threshold $150. Checkout charge/tax not independently verified. Returns: US-localized delivery/returns policy: $8 return fee deducted from refund; use US returns portal. Return window not stated on this page."
+    },
+    {
+      "id": "jacket-europe-6",
+      "title": "View Portuguese Flannel · Brown Wool Labura",
+      "url": "https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3?currency=USD&country=US",
+      "type": "Live exact product and size evidence",
+      "note": "100% virgin wool Horn buttons; lining/thread composition not disclosed.  {\"verified_at\": \"2026-10-14T21:13:08.150142+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"USD\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" \\n Horn Buttons \\n \\n Composition: 100% Virgin Wool \\n   \\n \\n \\n \\n \\n Sizing (cm): \\n \\n \\n XS \\n \\n \\n S \\n \\n \\n M \\n \\n \\n L \\n \\n \\n XL \\n \\n \\n XXL \\n \\n \\n \\n \\n Shoulders \\n \\n \\n 43 \\n \\n \\n 45  \\n \\n \\n 47  \\n \\n \\n 49  \\n \\n \\n 50  \\n \\n \\n 53  \\n \\n \\n \\n \\n 1/2 chest \\n \\n \\n 50,5  \\n \\n \\n 53  \\n \\n \\n 56  \\n \\n \\n 58,5  \\n \\n \\n 61  \\n \\n \\n 64  \\n \\n \\n \\n \\n Back \\n \\n \\n 72  \\n \\n \\n 74  \\n \\n \\n 76  \\n \\n \\n 78  \\n \\n \\n 80  \\n \\n \\n 82  \\n \\n \\n \\n \\n Arm \\n \\n \\n 62 \\n \\n \\n 63  \\n \\n \\n 64  \\n \\n \\n 65  \\n \\n \\n 67  \\n \\n \\n 68  \\n \\n \\n \\n \\n \\n \\n \\n \\n Sizing (in): \\n \\n \\n XS \\n \\n \\n S \\n \\n \\n M \\n \\n \\n L \\n \\n \\n XL \\n \\n \\n XXL \\n \\n \\n \\n \\n Shoulders \\n \\n \\n 16,9  \\n \\n \\n 17,7  \\n \\n \\n 18,5  \\n \\n \\n 19,2 \\n \\n \\n 19,6  \\n \\n \\n 20,8  \\n \\n \\n \\n \\n 1/2 Chest \\n \\n \\n 19,8 \\n \\n \\n 20,8  \\n \\n \\n 22  \\n \\n \\n 23  \\n \\n \\n 24  \\n \\n \\n 25,1  \\n \\n \\n \\n \\n Back \\n \\n \\n 28,3  \\n \\n \\n 29,1  \\n \\n \\n 29,9  \\n \\n \\n 30,7  \\n \\n \\n 31,4  \\n \\n \\n 32,2  \\n \\n \\n \\n \\n Arm \\n \\n \\n 24,4  \\n \\n \\n 24,8  \\n \\n \\n 25,1  \\n \\n \\n 25,5  \\n \\n \\n 26,3  \\n \\n \\n 26,7 \\n \\n \\n \\n \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-6-policies",
+      "title": "Portuguese Flannel · Brown Wool Labura · shipping / returns",
+      "url": "https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3",
+      "type": "Published policy; not destination checkout",
+      "note": "Localized to United States/USD; Express worldwide DPD/DHL/FedEx, rest of world €20 advertised; US checkout total/taxes unknown. Returns: 14 days from receipt, original condition with tags. Request return form by email; merchant transportation label required; shipping excluded from refund, return cost unknown."
+    },
+    {
+      "id": "jacket-europe-7",
+      "title": "View KnowledgeCotton · Chocolate Puffer",
+      "url": "https://knowledgecottonapparel.com/products/corduroy-puffer-jacket-chocolate-torte-1",
+      "type": "Live exact product and size evidence",
+      "note": "100% organic cotton Insulation/fill and lining composition undisclosed; 100% organic cotton refers to advertised fabric, not proof of natural filling.  {\"verified_at\": \"2026-10-14T21:13:08.151436+00:00\", \"page_http_status\": 200, \"stock_source\": \"https://knowledgecottonapparel.com/products/corduroy-puffer-jacket-chocolate-torte-1.js\", \"stock_method\": \"Exact product .js variants after selecting US using Shopify localization form (_method=put); UW uses /en-us/ path.\", \"market_currency\": \"EUR\", \"gallery_scope\": \"Complete exact-product Shopify .js images array, only Size option; not recommendation images.\", \"composition_text\": \" Stay warm in style with this padded corduroy jacket designed for colder days. Featuring a regular fit, it offers a comfortable silhouette with enough room for layering without feeling bulky. The high stand collar provides extra coverage, while the full-zip closure and quilted construction help lock in warmth. Finished with subtle logo detailing and practical side pockets, this jacket blends timeless texture with everyday functionality, making it an ideal choice for commuting, weekend wear, and seasonal outings.  Style no.: 1060085 Color: Chocolate Torte Quality: 100% Organic Cotton Washing instructions: Care: Handwash, Do not bleach, do not tumble dry, iron at low temperature, do not dry-clean \", \"visual_checked\": true}"
+    },
+    {
+      "id": "jacket-europe-7-policies",
+      "title": "KnowledgeCotton · Chocolate Puffer · shipping / returns",
+      "url": "https://knowledgecottonapparel.com/pages/delivery-and-returns",
+      "type": "Published policy; not destination checkout",
+      "note": "Localized page: delivery to United States in 2–5 business days, home delivery €30. DAP: import duties/taxes not included; exact checkout total unknown. Returns: 30-day cooling-off period. US customer pays and arranges return shipment; prepaid label unavailable. Return cost unknown. Native EUR pricing; USD estimate uses EUR/USD 1.119295 from Wed, 14 Oct 2026 00:02:32 +0000. Conversion is not a checkout quote."
+    },
+    {
+      "id": "jacket-workwear-0",
+      "title": "View Time Catcher · Brown Corduroy",
+      "url": "https://www.olderbest.com/products/1940s-french-corduroy-chore-coat?currency=USD&country=US",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton corduroy Natural ox-horn buttons; lining/thread composition not specified.  {\"checked_at_utc\": \"2026-10-14T21:13:10.216207+00:00\", \"http_status\": 200, \"final_url\": \"https://www.olderbest.com/en-us/products/1940s-french-corduroy-chore-coat?country=US\", \"variant_json_url\": \"https://www.olderbest.com/products/1940s-french-corduroy-chore-coat.js?currency=USD&country=US\", \"currency\": \"USD requested and rendered on live page; not a manual currency conversion\", \"material_quotes\": [\"s. Single little interior left waist pocket. 100% cotton. Natural ox horn buttons. Machine washable. Machine washable. SIZE&FIT Please use this info as a general guide as measurements are approximate\", \"s. Single little interior left waist pocket. 100% cotton. Natural ox horn buttons. Machine washable. CARE Machine washable. Reviews Wear Olderbest You May Also Like Recently Viewed Olderbest is commi\"], \"stock_source\": \"Live localized Shopify .js variants available boolean\", \"gallery_scope\": \"Entire Shopify product images array, single-color product\", \"visual_inspection\": \"Front image reviewed in contact sheet; individual detail photos not all visually reviewed.\", \"shipping_policy_url\": \"https://www.olderbest.com/pages/shipping-policy\", \"returns_policy_url\": \"https://www.olderbest.com/pages/returns\", \"localization_caveat\": \"Explicit currency=USD&country=US GETs returned live product and available variants; POST /localization returned 404, so country-market cookie binding not independently confirmed. Do not equate with completed US checkout.\"}"
+    },
+    {
+      "id": "jacket-workwear-0-policies",
+      "title": "Time Catcher · Brown Corduroy · shipping / returns",
+      "url": "https://www.olderbest.com/products/1940s-french-corduroy-chore-coat?currency=USD&country=US",
+      "type": "Published policy; not destination checkout",
+      "note": "US delivery supported in published policy; standard approximately 9–14 business days plus 1–3 business days processing; US regional warehouse possible but SKU warehouse unknown. Exact shipping/duties/tax/delivered total unknown. Returns: 30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified. Exchanges/store credit free under policy."
+    },
+    {
+      "id": "jacket-workwear-1",
+      "title": "View Time Catcher · Black A-2",
+      "url": "https://www.olderbest.com/products/a-2-moleskin-bomber-jacket-black?currency=USD&country=US",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton, 11.8 oz moleskin Quarter lined with 100% cotton checked cloth; other trims unspecified. Product detail mistakenly says olive/taupe although title, selected option and images are black.  {\"checked_at_utc\": \"2026-10-14T21:13:10.216116+00:00\", \"http_status\": 200, \"final_url\": \"https://www.olderbest.com/en-us/products/a-2-moleskin-bomber-jacket-black?country=US\", \"variant_json_url\": \"https://www.olderbest.com/products/a-2-moleskin-bomber-jacket-black.js?currency=USD&country=US\", \"currency\": \"USD requested and rendered on live page; not a manual currency conversion\", \"material_quotes\": [\"rter lined. Shell: 11.8 oz. moleskin, olive, 100% cotton. Lining: checked cloth, 100% cotton. Taupe tone finish after garment wash. Machine washable. Machine washable. DESCRIPTION Inspired by the cla\", \", olive, 100% cotton. Lining: checked cloth, 100% cotton. Taupe tone finish after garment wash. Machine washable. Machine washable. DESCRIPTION Inspired by the classic A-2 Bomber Jacket. Crafted from\", \"rter lined. Shell: 11.8 oz. moleskin, olive, 100% cotton. Lining: checked cloth, 100% cotton. Taupe tone finish after garment wash. Machine washable. CARE Machine washable. Reviews Customer Reviews O\"], \"stock_source\": \"Live localized Shopify .js variants available boolean\", \"gallery_scope\": \"Entire Shopify product images array, single-color product\", \"visual_inspection\": \"Front image reviewed in contact sheet; individual detail photos not all visually reviewed.\", \"shipping_policy_url\": \"https://www.olderbest.com/pages/shipping-policy\", \"returns_policy_url\": \"https://www.olderbest.com/pages/returns\", \"localization_caveat\": \"Explicit currency=USD&country=US GETs returned live product and available variants; POST /localization returned 404, so country-market cookie binding not independently confirmed. Do not equate with completed US checkout.\"}"
+    },
+    {
+      "id": "jacket-workwear-1-policies",
+      "title": "Time Catcher · Black A-2 · shipping / returns",
+      "url": "https://www.olderbest.com/products/a-2-moleskin-bomber-jacket-black?currency=USD&country=US",
+      "type": "Published policy; not destination checkout",
+      "note": "US delivery supported in published policy; standard approximately 9–14 business days plus 1–3 business days processing; US regional warehouse possible but SKU warehouse unknown. Exact shipping/duties/tax/delivered total unknown. Returns: 30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified. Exchanges/store credit free under policy."
+    },
+    {
+      "id": "jacket-workwear-7",
+      "title": "View Annual Ring · Taupe Chambray",
+      "url": "https://www.olderbest.com/products/1900s-french-salt-pepper-striped-chambray-sack-jacket?currency=USD&country=US",
+      "type": "Live exact product and size evidence",
+      "note": "100% cotton, Japanese 13 oz grey-brown striped salt-and-pepper chambray Striped jacquard cotton lining; retro alloy buttons; other trim fibers unspecified.  {\"checked_at_utc\": \"2026-10-14T21:13:10.216423+00:00\", \"http_status\": 200, \"final_url\": \"https://www.olderbest.com/en-us/products/1900s-french-salt-pepper-striped-chambray-sack-jacket?country=US\", \"variant_json_url\": \"https://www.olderbest.com/products/1900s-french-salt-pepper-striped-chambray-sack-jacket.js?currency=USD&country=US\", \"currency\": \"USD requested and rendered on live page; not a manual currency conversion\", \"material_quotes\": [\"n Contact Us to help you choose the size. ** 100% cotton. Japanese 13 oz. grey-brown striped Salt and Pepper chambray yarn-dyed fabric. Stripe jacquard cotton fabric for lining. Retro alloy buttons. \", \"t Us to help you choose the size. ** DETAILS 100% cotton. Japanese 13 oz. grey-brown striped Salt and Pepper chambray yarn-dyed fabric. Stripe jacquard cotton fabric for lining. Retro alloy buttons. \"], \"stock_source\": \"Live localized Shopify .js variants available boolean\", \"gallery_scope\": \"Entire Shopify product images array, single-color product\", \"visual_inspection\": \"Front image reviewed in contact sheet; individual detail photos not all visually reviewed.\", \"shipping_policy_url\": \"https://www.olderbest.com/pages/shipping-policy\", \"returns_policy_url\": \"https://www.olderbest.com/pages/returns\", \"localization_caveat\": \"Explicit currency=USD&country=US GETs returned live product and available variants; POST /localization returned 404, so country-market cookie binding not independently confirmed. Do not equate with completed US checkout.\"}"
+    },
+    {
+      "id": "jacket-workwear-7-policies",
+      "title": "Annual Ring · Taupe Chambray · shipping / returns",
+      "url": "https://www.olderbest.com/products/1900s-french-salt-pepper-striped-chambray-sack-jacket?currency=USD&country=US",
+      "type": "Published policy; not destination checkout",
+      "note": "US delivery supported in published policy; standard approximately 9–14 business days plus 1–3 business days processing; US regional warehouse possible but SKU warehouse unknown. Exact shipping/duties/tax/delivered total unknown. Returns: 30 days, unworn/unwashed/original tags and packaging; US return labels offered, policy still quotes fee starting £6 even on USD page; USD fee unverified. Exchanges/store credit free under policy."
     }
   ],
-  "evidenceNote": "Retailer product pages, exact sizes and official galleries checked October 14. New S/M stock and prices independently rechecked; LA corduroy uses XS/S and M/L, and Suitsupply maps regular38 to M. All new destination shipping totals and taxes remain unverified. Quince’s earlier ZIP10016 estimate was free delivery October18, not guaranteed. Decorative Non Stock Bolero was rejected despite cotton fabric; MUJI denim rejected for prominent chest pockets; Community Clothing pauses US delivery. Higher-price options remain for comparison, not affordability recommendations.",
+  "evidenceNote": "Product pages, exact colors and S/M inventory checked October 14. Natural shell composition is required; synthetic or undisclosed lining/trim is noted. US delivery is supported, but most ZIP10016 shipping, taxes, duties and arrival dates remain unquoted. Four KnowledgeCotton prices are in EUR with indicative USD conversions for sorting (EUR/USD 1.119295); they also incur advertised €30 US shipping and possible duties. Gap prices exclude untested checkout promotions. Numeric-only 36/38 styles were omitted instead of assuming S/M. A blue-looking Gap denim option was replaced with washed black. Retailer colors such as Chocolate, Soil, Worn Black and Taupe can look gray/olive; those appearance compromises are explicit. Pocket prominence is subjective: larger tonal pockets are included for visual comparison, not described as invisible.",
   "caveat": "100% natural outer fabric is not the same as an entirely natural or plastic-free garment. Organic cotton does not establish a health benefit or absence of dyes/finishes. No exact-product influencer endorsement or independently verified safety certification is claimed."
 }
