@@ -1,9 +1,17 @@
 {
   "topics": [
     {
+      "id": "specialist-natural-pants",
+      "title": "Natural-clothing brands",
+      "summary": "Four specialist brands; natural fabrics, fit gaps and plastic-free caveats.",
+      "updated": "2026-10-14",
+      "image": "assets/images/specialist-harvest-mill.webp",
+      "imageAlt": "Harvest & Mill · Lounge Pants in black"
+    },
+    {
       "id": "dark-natural-pants",
       "title": "Dark natural-fiber pants",
-      "summary": "30\u00d732, slim preferred \u00b7 100% natural main fabric \u00b7 affordability first.",
+      "summary": "30×32, slim preferred · 100% natural main fabric · affordability first.",
       "updated": "2026-10-14",
       "image": "assets/images/pants-wrangler-black.webp",
       "imageAlt": "Wrangler Shadow Black cotton jeans"
