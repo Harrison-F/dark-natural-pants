@@ -16,7 +16,7 @@
       "summary": "Lighter cotton for year-round business casual.",
       "image": "assets/images/luxire-shadow.webp",
       "imageAlt": "Luxire · Shadow Grey product image",
-      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette.",
+      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette. Gallery source: https://luxire.com/products/cotton-twill-dark-grey-bf_664050",
       "facts": {
         "Main fabric": "100% cotton · 216 gsm",
         "Price": "$99.99 base; final configuration unquoted",
@@ -29,7 +29,30 @@
         "luxire-shadow",
         "luxire-shadow-returns",
         "luxire-shadow-delivery"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/luxire-shadow-gallery-01.webp",
+          "alt": "Luxire · Shadow Grey — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/products/CottonTwillShadowGrey_a90f5bb2-9992-4b50-bd80-a3a43afc64a3.jpg?v=1679036726"
+        },
+        {
+          "src": "assets/images/luxire-shadow-gallery-02.webp",
+          "alt": "Luxire · Shadow Grey — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/products/CottonTwillShadowGrey_1.jpg?v=1679036726"
+        },
+        {
+          "src": "assets/images/luxire-shadow-gallery-03.webp",
+          "alt": "Luxire · Shadow Grey — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/products/CottonTwillShadowGrey_2.jpg?v=1679036726"
+        },
+        {
+          "src": "assets/images/luxire-shadow-gallery-04.webp",
+          "alt": "Luxire · Shadow Grey — retailer image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/products/CottonTwillShadowGrey_3.jpg?v=1679036726"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Luxire custom fabric/example imagery does not verify final ordered pleated cut. Some After Dark filenames explicitly identify gemini imagery; these are retailer-published synthetic examples, not verified photography."
     },
     {
       "id": "luxire-after-dark",
@@ -38,7 +61,7 @@
       "summary": "Heavier dark-charcoal cotton for cooler weather.",
       "image": "assets/images/luxire-after-dark.webp",
       "imageAlt": "Luxire · After Dark Grey product image",
-      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette.",
+      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette. Gallery source: https://luxire.com/products/cotton-twill-after-dark-bf_515227 Images 7–11 have Gemini-labelled filenames and are unverified retailer examples, not evidence of the delivered customized cut or verified photography.",
       "facts": {
         "Main fabric": "100% cotton · 360 gsm",
         "Price": "$99.99 base; final configuration unquoted",
@@ -51,7 +74,65 @@
         "luxire-after-dark",
         "luxire-after-dark-returns",
         "luxire-after-dark-delivery"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/luxire-after-dark-gallery-01.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_2.jpg?v=1780395557"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-02.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_1_d186a6c8-7a26-402f-8bbf-ce2cb462a51b.jpg?v=1780395589"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-03.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_3.jpg?v=1780395557"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-04.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_6.jpg?v=1780395557"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-05.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 5",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_5.jpg?v=1780395557"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-06.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 6",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/67307_4.jpg?v=1780395557"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-07.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 7",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/after_dark_grey_cotton_twill__standing_with_his_back_to_camera__full_l__gemini.jpg?v=1788616787"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-08.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 8",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/after_dark_grey_cotton_twill__tight_close_crop_of_the_back_pocket_and__gemini.jpg?v=1788616787"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-09.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 9",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/after_dark_grey_cotton_twill__standing_turned_forty_five_degrees__full__gemini.jpg?v=1788616787"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-10.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 10",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/after_dark_grey_cotton_twill__tight_close_crop_of_the_waistband_alone__gemini.jpg?v=1788616787"
+        },
+        {
+          "src": "assets/images/luxire-after-dark-gallery-11.webp",
+          "alt": "Luxire · After Dark Grey — retailer image 11",
+          "source": "https://cdn.shopify.com/s/files/1/0109/6372/files/after_dark_grey_cotton_twill__standing_straight_on_to_camera__full_len__gemini.jpg?v=1788616786"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Luxire custom fabric/example imagery does not verify final ordered pleated cut. Some After Dark filenames explicitly identify gemini imagery; these are retailer-published synthetic examples, not verified photography."
     },
     {
       "id": "hawes-black",
@@ -60,7 +141,7 @@
       "summary": "Black tailored wool; straight-to-gently-tapered legs.",
       "image": "assets/images/hawes-black.webp",
       "imageAlt": "Hawes & Curtis · Black Wool product image",
-      "imageNote": "Official black product photograph; visible pleated, non-flared cut. Model size not established.",
+      "imageNote": "Official black product photograph; visible pleated, non-flared cut. Model size not established. Gallery source: https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
       "facts": {
         "Main fabric": "100% wool · Super100s",
         "Price": "$160 + shipping / hemming / tax",
@@ -73,7 +154,30 @@
         "hawes-black",
         "hawes-black-returns",
         "hawes-black-delivery"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/hawes-black-gallery-01.webp",
+          "alt": "Hawes & Curtis · Black Wool — retailer image 1",
+          "source": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211852-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/hawes-black-gallery-02.webp",
+          "alt": "Hawes & Curtis · Black Wool — retailer image 2",
+          "source": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211855-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/hawes-black-gallery-03.webp",
+          "alt": "Hawes & Curtis · Black Wool — retailer image 3",
+          "source": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211854-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/hawes-black-gallery-04.webp",
+          "alt": "Hawes & Curtis · Black Wool — retailer image 4",
+          "source": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211853-800px-1040px.jpg"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Completeness applies to this retailer product gallery, not every alternate retailer or historical image."
     }
   ],
   "sources": [

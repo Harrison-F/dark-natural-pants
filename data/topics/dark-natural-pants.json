@@ -18,7 +18,7 @@
       "summary": "Closest match to your slim preference.",
       "image": "assets/images/pants-wrangler-black.webp",
       "imageAlt": "Model wearing Wrangler 936 · Shadow Black jeans",
-      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established. Gallery source: https://starrwesternwear.com/products/wrangler-mens-slim-fit-cowboy-cut-jeans-0936wbk?variant=47007408292061",
       "facts": {
         "Fabric": "100% cotton · nonstretch",
         "Price": "$51.99 shipped, before tax",
@@ -39,7 +39,35 @@
         "alpaca",
         "dermnet",
         "oeko"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/wrangler-black-gallery-01.webp",
+          "alt": "Wrangler 936 · Shadow Black — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Shadow-Black-0936WBK__S_1.jpg?v=1775064007"
+        },
+        {
+          "src": "assets/images/wrangler-black-gallery-02.webp",
+          "alt": "Wrangler 936 · Shadow Black — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Shadow-Black-0936WBK__S_2.jpg?v=1775064008"
+        },
+        {
+          "src": "assets/images/wrangler-black-gallery-03.webp",
+          "alt": "Wrangler 936 · Shadow Black — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Shadow-Black-0936WBK__S_3.jpg?v=1775064010"
+        },
+        {
+          "src": "assets/images/wrangler-black-gallery-04.webp",
+          "alt": "Wrangler 936 · Shadow Black — retailer image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Shadow-Black-0936WBK__S_4.jpg?v=1775064012"
+        },
+        {
+          "src": "assets/images/wrangler-black-gallery-05.webp",
+          "alt": "Wrangler 936 · Shadow Black — retailer image 5",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Shadow-Black-0936WBK__S_7.jpg?v=1775064014"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Completeness applies to this retailer product gallery, not every alternate retailer or historical image."
     },
     {
       "id": "wrangler-charcoal",
@@ -48,7 +76,7 @@
       "summary": "Same cut, lighter charcoal shade.",
       "image": "assets/images/pants-wrangler-charcoal.webp",
       "imageAlt": "Model wearing Wrangler 936 · Charcoal jeans",
-      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established. Gallery source: https://starrwesternwear.com/products/wrangler-mens-slim-fit-cowboy-cut-jeans-0936chg?variant=47007372771549",
       "facts": {
         "Fabric": "100% cotton · nonstretch",
         "Price": "$66.98 shipped, before tax",
@@ -65,7 +93,35 @@
         "alpaca",
         "dermnet",
         "oeko"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/wrangler-charcoal-gallery-01.webp",
+          "alt": "Wrangler 936 · Charcoal — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Charcoal-Gray-0936CHG__S_1.jpg?v=1775060396"
+        },
+        {
+          "src": "assets/images/wrangler-charcoal-gallery-02.webp",
+          "alt": "Wrangler 936 · Charcoal — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Charcoal-Gray-0936CHG__S_2.jpg?v=1775060398"
+        },
+        {
+          "src": "assets/images/wrangler-charcoal-gallery-03.webp",
+          "alt": "Wrangler 936 · Charcoal — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Charcoal-Gray-0936CHG__S_3.jpg?v=1775060399"
+        },
+        {
+          "src": "assets/images/wrangler-charcoal-gallery-04.webp",
+          "alt": "Wrangler 936 · Charcoal — retailer image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Charcoal-Gray-0936CHG__S_4.jpg?v=1775060401"
+        },
+        {
+          "src": "assets/images/wrangler-charcoal-gallery-05.webp",
+          "alt": "Wrangler 936 · Charcoal — retailer image 5",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Wrangler-Mens-Slim-Fit-Cowboy-Cut-Jeans-Charcoal-Gray-0936CHG__S_7.jpg?v=1775060402"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Completeness applies to this retailer product gallery, not every alternate retailer or historical image."
     },
     {
       "id": "levis-517",
@@ -74,7 +130,7 @@
       "summary": "Choose only if you want a flared hem.",
       "image": "assets/images/pants-levis-517.webp",
       "imageAlt": "Model wearing Levi’s 517 · Black jeans",
-      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established. Gallery source: https://starrwesternwear.com/products/levis-mens-517-slim-fit-bootcut-jeans-005170260?variant=47007600902365",
       "facts": {
         "Fabric": "100% cotton · nonstretch",
         "Price": "$74.98 shipped, before tax",
@@ -91,7 +147,25 @@
         "alpaca",
         "dermnet",
         "oeko"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/levis-517-gallery-01.webp",
+          "alt": "Levi’s 517 · Black — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-517-Slim-Fit-Bootcut-Jeans-Black-005170260__S_1.jpg?v=1781907576"
+        },
+        {
+          "src": "assets/images/levis-517-gallery-02.webp",
+          "alt": "Levi’s 517 · Black — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-517-Slim-Fit-Bootcut-Jeans-Black-005170260__S_2.jpg?v=1781907578"
+        },
+        {
+          "src": "assets/images/levis-517-gallery-03.webp",
+          "alt": "Levi’s 517 · Black — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-517-Slim-Fit-Bootcut-Jeans-Black-005170260__S_3.jpg?v=1781907579"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Completeness applies to this retailer product gallery, not every alternate retailer or historical image."
     },
     {
       "id": "levis-501",
@@ -100,7 +174,7 @@
       "summary": "More room through the thigh, not slim.",
       "image": "assets/images/pants-levis-501.webp",
       "imageAlt": "Model wearing Levi’s 501 · Black jeans",
-      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established. Gallery source: https://starrwesternwear.com/products/levis-mens-501-original-fit-jeans-005010660?variant=47007405736157",
       "facts": {
         "Fabric": "100% cotton · nonstretch",
         "Price": "$84.98 shipped, before tax",
@@ -117,7 +191,30 @@
         "alpaca",
         "dermnet",
         "oeko"
-      ]
+      ],
+      "images": [
+        {
+          "src": "assets/images/levis-501-gallery-01.webp",
+          "alt": "Levi’s 501 · Black — retailer image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-501-Original-Fit-Jeans-Black-005010660__S_1.jpg?v=1781806022"
+        },
+        {
+          "src": "assets/images/levis-501-gallery-02.webp",
+          "alt": "Levi’s 501 · Black — retailer image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-501-Original-Fit-Jeans-Black-005010660__S_2.jpg?v=1781806024"
+        },
+        {
+          "src": "assets/images/levis-501-gallery-03.webp",
+          "alt": "Levi’s 501 · Black — retailer image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-501-Original-Fit-Jeans-Black-005010660__S_3.jpg?v=1781806025"
+        },
+        {
+          "src": "assets/images/levis-501-gallery-04.webp",
+          "alt": "Levi’s 501 · Black — retailer image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0479/7874/1924/files/Levi-s-Mens-501-Original-Fit-Jeans-Black-005010660__S_4.jpg?v=1781806027"
+        }
+      ],
+      "galleryNote": "complete exposed exact-product image gallery. Completeness applies to this retailer product gallery, not every alternate retailer or historical image."
     }
   ],
   "sources": [
