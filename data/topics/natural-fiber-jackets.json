@@ -29,7 +29,41 @@
         "jacket-quince-black",
         "jacket-quince-black-shipping",
         "jacket-quince-black-returns"
-      ]
+      ],
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black",
+      "images": [
+        {
+          "src": "assets/images/jacket-quince-black-gallery-01.webp",
+          "alt": "jacket quince black — product photo 1",
+          "source": "https://images.quince.com/7usS88xy2DbVqtwosxVlUM/0680f672c725016eaffe58443a303e3c/M-JKT-56-BLA-01_EDITED.jpg?w=1400&q=85&fm=webp"
+        },
+        {
+          "src": "assets/images/jacket-quince-black-gallery-02.webp",
+          "alt": "jacket quince black — product photo 2",
+          "source": "https://images.quince.com/683FvAYIGVysywbpCMdvw1/a315dde39b7e52989ffcc81d02171725/M-JKT-56-BLA-02_EDITED.jpg?w=1400&q=85&fm=webp"
+        },
+        {
+          "src": "assets/images/jacket-quince-black-gallery-03.webp",
+          "alt": "jacket quince black — product photo 3",
+          "source": "https://images.quince.com/4vbbmMrOKF3ERO6fC0ARlV/66f4bc590c88916f5242fc4cc09fb08a/M-JKT-56-BLA-03_EDITED.jpg?w=1400&q=85&fm=webp"
+        },
+        {
+          "src": "assets/images/jacket-quince-black-gallery-04.webp",
+          "alt": "jacket quince black — product photo 4",
+          "source": "https://images.quince.com/5flqyzSRRAfBK8u5tdqrPB/5251163f0886ea8988ba598f3928ac41/M-JKT-56-BLA-04_EDITED.jpg?w=1400&q=85&fm=webp"
+        },
+        {
+          "src": "assets/images/jacket-quince-black-gallery-05.webp",
+          "alt": "jacket quince black — product photo 5",
+          "source": "https://images.quince.com/4gaJxIWsgscv10SIGAj8yv/aa1f0d85e6b3571128a114fa92d975f4/M-JKT-56-BLA-05_EDITED.jpg?w=1400&q=85&fm=webp"
+        },
+        {
+          "src": "assets/images/jacket-quince-black-gallery-06.webp",
+          "alt": "jacket quince black — product photo 6",
+          "source": "https://images.quince.com/67ClMyxmQQexRrrEMVq5ff/554b46972fa04a6d255677b0efefbc00/M-JKT-56-BLA-06_EDITED.jpg?w=1400&q=85&fm=webp"
+        }
+      ],
+      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
     },
     {
       "id": "jacket-bronson-brown",
@@ -51,7 +85,96 @@
         "jacket-bronson-brown",
         "jacket-bronson-brown-shipping",
         "jacket-bronson-brown-returns"
-      ]
+      ],
+      "url": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-brown",
+      "images": [
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-01.webp",
+          "alt": "jacket bronson brown — product photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/1_0def89b8-51bf-4e6f-8046-91521d89a3a3.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-02.webp",
+          "alt": "jacket bronson brown — product photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/2_353f86c9-cf27-43e7-82cf-e4114628cf36.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-03.webp",
+          "alt": "jacket bronson brown — product photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/3_79e14891-8997-4018-8d5d-49006f79e580.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-04.webp",
+          "alt": "jacket bronson brown — product photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/4_588e7107-ffba-45b1-bc06-a39ed9eb8664.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-05.webp",
+          "alt": "jacket bronson brown — product photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/10_351db8b0-c6ed-4141-b6ab-306f283a0ac3.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-06.webp",
+          "alt": "jacket bronson brown — product photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/5_d660c87e-0f8f-4405-a9ab-d7f692afec76.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-07.webp",
+          "alt": "jacket bronson brown — product photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/6_468f70cd-72b3-4cf5-b85c-4a47cd157c35.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-08.webp",
+          "alt": "jacket bronson brown — product photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/7_4d8dd423-51da-44a0-8c17-b507a34dfcbe.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-09.webp",
+          "alt": "jacket bronson brown — product photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/8.1_23aca852-00e5-4466-8f34-9f6d4729a7c2.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-10.webp",
+          "alt": "jacket bronson brown — product photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/9_01aa74cd-8cfc-414b-8f7f-063d02eda0e9.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-11.webp",
+          "alt": "jacket bronson brown — product photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/11.1.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-12.webp",
+          "alt": "jacket bronson brown — product photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/12_2b59fd9e-bbd4-4c1f-9d60-751377376f95.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-13.webp",
+          "alt": "jacket bronson brown — product photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/13_2f057fc1-63eb-4924-927c-182131cad5c2.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-14.webp",
+          "alt": "jacket bronson brown — product photo 14",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/14_ccc53b43-2ee1-4cc3-bb8a-d68026441f90.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-15.webp",
+          "alt": "jacket bronson brown — product photo 15",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/15_cd6f8da3-4a48-408c-8580-058b45e3f444.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-16.webp",
+          "alt": "jacket bronson brown — product photo 16",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/17_c978aa5e-3093-46b0-809a-e12fe4e000fa.jpg?v=1789614974"
+        },
+        {
+          "src": "assets/images/jacket-bronson-brown-gallery-17.webp",
+          "alt": "jacket bronson brown — product photo 17",
+          "source": "https://cdn.shopify.com/s/files/1/0103/1838/1115/files/16_b4b5c7d6-5d09-4233-9991-86ef69cad778.jpg?v=1789614974"
+        }
+      ],
+      "galleryNote": "All images exposed in the selected-color product gallery; excludes related products, videos and customer uploads."
     }
   ],
   "sources": [

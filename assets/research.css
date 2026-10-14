@@ -32,3 +32,14 @@
 .research .research-image-dialog p {color:var(--muted);line-height:1.5;}
 .research:has(dialog[open]) {overflow:hidden;}
 .research .research-error {padding:50px 0;}
+
+/* Product galleries retain the accepted square image geometry. */
+.research .identity .product-title-link {margin:0;color:var(--ink);}
+.research .identity .product-title-link:hover {color:var(--accent);}
+.research .gallery-controls {display:flex;align-items:center;gap:8px;padding:8px 12px;border-bottom:1px solid var(--line);}
+.research .gallery-arrow,.research .gallery-expand {min-width:44px;min-height:44px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--ink);cursor:pointer;font:inherit;}
+.research .gallery-arrow:hover,.research .gallery-expand:hover {background:#292d27;}
+.research .gallery-expand {margin-left:auto;padding:0 16px;font-size:13px;}
+.research .gallery-count {font-size:13px;color:var(--muted);min-width:48px;text-align:center;}
+.research .product-photo-link:focus-visible {outline:3px solid var(--accent);outline-offset:-4px;}
+.research .gallery-controls button:focus-visible,.research .product-title-link:focus-visible {outline:2px solid var(--accent);outline-offset:3px;}
