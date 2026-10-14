@@ -1,161 +1,51 @@
 {
   "id": "specialist-natural-pants",
-  "title": "Natural-clothing brands",
-  "summary": "Four dark-pants options · 100% natural main fabric · price-first comparison.",
+  "title": "Slim natural-fiber pants",
+  "summary": "Slim only · no lounge pants · black/gray · 30×32 · 100% natural main fabric.",
   "updated": "2026-10-14",
   "recommendation": {
-    "title": "Better material disclosure—with fit compromises",
-    "text": "No exact slim 30×32 match verified. Rawganique can be hemmed; Uskees is tapered but has a 31″ leg.",
-    "test": "Harvest & Mill is the cheapest, but it is loungewear. None of these four is independently verified plastic-free throughout."
+    "title": "No qualifying in-stock match verified",
+    "text": "The previous lounge, straight-cut and short-inseam options have been removed.",
+    "test": "This search found zero complete matches—not evidence that none exists anywhere. No substitutes are being recommended."
   },
-  "caveat": "These are specialist natural-clothing brands, not verified wholly plastic-free brands. Organic and natural-fiber labels do not establish health benefits or absence of all finishes. No verified influencer endorsement of these exact pants was found.",
-  "evidenceNote": "Exact color/size variants and prices checked October14. Shipping quotes are anonymous single-item estimates to NYC10016, not full-address checkout guarantees. Tax, hemming and possible returns add cost. Uskees shipping remains unquoted. This is an exploratory comparison, not four complete fit matches; community durability and independent certification checks remain incomplete.",
-  "products": [
-    {
-      "id": "harvest-mill",
-      "name": "Harvest & Mill · Lounge Pants",
-      "verdict": "Lowest price · lounge-only option",
-      "summary": "Black jersey; ultra-relaxed, not slim.",
-      "image": "assets/images/specialist-harvest-mill.webp",
-      "imageAlt": "Harvest & Mill · Lounge Pants in black",
-      "imageNote": "Official exact-product/color image. Lighting may make black appear charcoal; model size not established.",
-      "facts": {
-        "Fabric": "100% organic cotton",
-        "Price": "$86.66 shipped, before tax",
-        "Fit / stock": "Large: chart for 31–32″ body inseam; 30″ waist unverified",
-        "Plastic-free?": "No waist elastic; thread / labels undisclosed",
-        "Trade-off": "Pajama fit; numeric waist range not supplied"
-      },
-      "sources": [
-        "harvest-mill",
-        "harvest-mill-terms"
-      ]
-    },
-    {
-      "id": "rawganique-hemp",
-      "name": "Rawganique · Hemp Slacks",
-      "verdict": "Length-adjustable · final-sale risk",
-      "summary": "Black low-rise straight cut; hem 33″ to 32″.",
-      "image": "assets/images/specialist-rawganique-hemp.webp",
-      "imageAlt": "Rawganique · Hemp Slacks in black",
-      "imageNote": "Official exact-product/color image. Lighting may make black appear charcoal; model size not established.",
-      "facts": {
-        "Fabric": "100% organic hemp",
-        "Price": "$106.87 shipped, before tax / hemming",
-        "Fit / stock": "30×33 in stock · straight, not slim",
-        "Plastic-free?": "Natural buttons + metal hardware; thread / tape unknown",
-        "Trade-off": "Final sale; hemming extra; no refund"
-      },
-      "sources": [
-        "rawganique-hemp",
-        "rawganique-hemp-terms"
-      ]
-    },
-    {
-      "id": "ioan-ponya",
-      "name": "IOAN · Ponya Pants",
-      "verdict": "Cropped compromise · contains elastic",
-      "summary": "Iron-dyed earthy black; too short for full length.",
-      "image": "assets/images/specialist-ioan-ponya.webp",
-      "imageAlt": "IOAN · Ponya Pants in black",
-      "imageNote": "Official exact-product/color image. Lighting may make black appear charcoal; model size not established.",
-      "facts": {
-        "Fabric": "100% organic cotton",
-        "Price": "$165.00 shipped, before tax",
-        "Fit / stock": "S: 30″ waist ×29.5″ inseam · in stock",
-        "Plastic-free?": "Recycled elastic waistband; not plastic-free verified",
-        "Trade-off": "Dyed inseam may shrink further; not a 32″ fit"
-      },
-      "sources": [
-        "ioan-ponya",
-        "ioan-ponya-terms"
-      ]
-    },
-    {
-      "id": "uskees-5005",
-      "name": "Uskees · 5005 Workwear Pants",
-      "verdict": "Closest tapered cut · 31″ leg",
-      "summary": "Black organic-cotton twill; one inch short.",
-      "image": "assets/images/specialist-uskees-5005.webp",
-      "imageAlt": "Uskees · 5005 Workwear Pants in black",
-      "imageNote": "Official exact-product/color image. Lighting may make black appear charcoal; model size not established.",
-      "facts": {
-        "Fabric": "100% organic cotton",
-        "Price": "$190 + unquoted shipping; US storefront",
-        "Fit / stock": "30W ×31″ fixed leg · in stock",
-        "Plastic-free?": "Corozo buttons; zip tape, lining / thread unknown",
-        "Trade-off": "Runs small; $190 item price; US return fee"
-      },
-      "sources": [
-        "uskees-5005",
-        "uskees-5005-terms",
-        "screening"
-      ]
-    }
-  ],
+  "caveat": "Slim fit and non-lounge construction are hard requirements. Synthetic trims may be disclosed separately, but elastane in the main fabric fails. No relaxation of fit, color, size or fabric is assumed.",
+  "evidenceNote": "Checked specialist catalogs including Rawganique, KnowledgeCotton, HempAge, Asket, Nudie, Kuyichi, MUD Jeans, Kings of Indigo and organsk. Common blockers were elastane, wrong color and unavailable size. No four-option shortlist was established.",
+  "products": [],
   "sources": [
     {
-      "id": "harvest-mill",
-      "title": "View Harvest & Mill · Lounge Pants · selected size",
-      "url": "https://harvestandmill.com/products/mens-organic-lounge-pants-in-black?variant=40412145451082",
-      "type": "Brand specification and exact live variant",
-      "note": "Brand chart recommends Large for body inseam 31–32 inches. Waist freely adjusts by drawstring but no numeric minimum/maximum is given. Ultra-relaxed lounge/pajama cut, NOT slim or verified 30-inch waist. Drawstring-only waist explicitly has no stretchy material. Thread, drawstring and label fiber composition not separately disclosed on inspected product page; do not claim wholly plastic-free. Organic-cotton specialist; exact product states entirely USA domestic supply chain. Not verified whole-brand plastic-free."
+      "id": "rawganique",
+      "title": "Rawganique · slim-straight organic cotton jeans",
+      "url": "https://rawganique.com/products/slim-straight-organic-cotton-jeans",
+      "type": "Rejected: wrong color",
+      "note": "30×32 available, 100% organic cotton, but indigo—not black/gray."
     },
     {
-      "id": "harvest-mill-terms",
-      "title": "Harvest & Mill · returns / delivery",
-      "url": "https://harvestandmill.com/pages/delivery-and-returns",
-      "type": "Merchant policy and anonymous quote",
-      "note": "Anonymous ZIP10016 cart: $76.00 item + $10.66 shipping = $86.66 before tax. Ground Advantage quote estimated October23, not guaranteed delivery. 30 days, unworn/unwashed; customer pays return shipping for refund. Most exchanges over $45 get complimentary return shipping."
+      "id": "nudie",
+      "title": "Nudie · Slim Jim Dry Black Tar",
+      "url": "https://www.nudiejeans.com/en-US/product/slim-jim-dry-black-tar",
+      "type": "Rejected: requested size sold out",
+      "note": "$185; 100% cotton and branded slim fit, but 30×32/34/36 are OutOfStock. Fit guide additionally notes slight bootcut. Not a purchase recommendation."
     },
     {
-      "id": "rawganique-hemp",
-      "title": "View Rawganique · Hemp Slacks · selected size",
-      "url": "https://rawganique.com/products/eco-couture-low-rise-hemp-dress-pants-slacks?variant=36200164196519",
-      "type": "Brand specification and exact live variant",
-      "note": "Best near-match: black 30x33 available; needs hemming to 32. Straight, not slim. Final sale. Sewing thread and zipper tape composition unreported, so whole-garment plastic-free NOT verified. Two metal hooks; brass zipper; tagua nut or coconut buttons. Thread, zipper tape, pocket lining not specified on product description. Manufacturer claims no heavy metals or harsh chemicals; no named third-party certificate or certificate number on exact product evidence. No independent validation. Product-specific care: hand wash/flat dry or dry clean; no dryer. Manufacturer 99.2%-biodegradable label is not a full plastic-free guarantee."
+      "id": "asket",
+      "title": "Asket · black slim jeans",
+      "url": "https://www.asket.com/en-us/mens-slim-jeans-black",
+      "type": "Rejected: synthetic main-fabric blend",
+      "note": "98% organic cotton, 2% recycled elastane; raw 100% cotton version is indigo."
     },
     {
-      "id": "rawganique-hemp-terms",
-      "title": "Rawganique · returns / delivery",
-      "url": "https://rawganique.com/pages/returns",
-      "type": "Merchant policy and anonymous quote",
-      "note": "Anonymous ZIP10016 cart: $89.97 item + $16.90 shipping = $106.87 before tax. Closeout final sale: no refund. Product page permits alternate size/color exchange if available but buyer pays shipping; differs from generic policy which offers outbound exchange free in contiguous US. Use stricter product-specific terms."
+      "id": "knowledge",
+      "title": "KnowledgeCotton · LUCA Black Jet",
+      "url": "https://knowledgecottonapparel.com/products/luca-comfort-chino-pant-black-jet",
+      "type": "Rejected: synthetic main-fabric blend",
+      "note": "Black slim chinos contain 2% elastane."
     },
     {
-      "id": "ioan-ponya",
-      "title": "View IOAN · Ponya Pants · selected size",
-      "url": "https://industryofallnations.com/products/organic-cotton-drawstring-pants?variant=41265981915291",
-      "type": "Brand specification and exact live variant",
-      "note": "Size chart S: elastic waist 30 inches, inseam 29.5 inches, front rise 11 inches, leg opening 6 inches. Dyed inseam may be shorter and vary approximately 0.5 inch. Substantially too short versus requested 32-inch inseam; only a cropped compromise. XXL is 32-inch inseam but 38-inch waist, not recommended as fit substitute. RECYCLED ELASTIC WAISTBAND explicitly disclosed. Elastic fiber composition not specified; not wholly plastic-free. Thread/labels unspecified. Natural-fiber/material-process specialist; site says organic, recycled or biodegradable materials. This is NOT a whole-brand plastic-free assertion."
-    },
-    {
-      "id": "ioan-ponya-terms",
-      "title": "IOAN · returns / delivery",
-      "url": "https://industryofallnations.com/pages/returns-exchanges",
-      "type": "Merchant policy and anonymous quote",
-      "note": "Anonymous ZIP10016 cart: $165.00 item + $0.00 shipping = $165.00 before tax. Initiate return within 30 days of order; unworn/unwashed; US return label usually $6–10. US exchanges within 45 days, initial return label free. Archive/sample sale excluded (this is regular product)."
-    },
-    {
-      "id": "uskees-5005",
-      "title": "View Uskees · 5005 Workwear Pants · selected size",
-      "url": "https://uskees.com/en-us/products/5005-black-twill-workwear-pants?variant=54882298888567",
-      "type": "Brand specification and exact live variant",
-      "note": "Exact offered waist size 30W, but fixed leg is 31 inches, not requested 32. Tapered leg, mid-rise; page warns runs small and size up if between sizes. Closest structured everyday trouser here, but shorter and expensive in US market. Plant-based corozo buttons; front zip fly and lined adjustable waistband. Zipper tape, thread, lining and label composition unspecified, so synthetic trims remain possible. Organic-cotton workwear specialist; exact 5005 page states 100% organic cotton. Whole-brand or whole-garment plastic-free status not established."
-    },
-    {
-      "id": "uskees-5005-terms",
-      "title": "Uskees · returns / delivery",
-      "url": "https://uskees.com/en-us/pages/refund-policy",
-      "type": "Merchant policy and anonymous quote",
-      "note": "US-market cart explicitly USD190.00. Localized /en-us/cart/shipping_rates.json returned no rates; shipping unknown, not proven unavailable. Policy advertises US $19.99 shipping, DDP/taxes included; not a confirmed checkout total. Full-price: 30 days from receipt, unworn, labels and repair kits attached. USA subsidized return fee £7.50 deducted from refund."
-    },
-    {
-      "id": "screening",
-      "title": "Yes Friends · excluded stretch denim",
-      "url": "https://yesfriends.co/products/regular-straight-organic-jeans",
-      "type": "Rejection / screening evidence",
-      "note": "Current washed-black model says 99% organic cotton, 1% elastane; excluded despite brand positioning. Cottonique black lounge S/M sold out; Heather Grey available but size chart S/M35–36 waist/31 inseam does not verify30×32. Rawganique short joggers and IOAN sold-out charcoal30 jeans were also screened."
+      "id": "mud",
+      "title": "MUD Jeans · Rick Mid Slim Stone Black",
+      "url": "https://mudjeans.com/products/rick-mid-slim-stone-black",
+      "type": "Rejected: synthetic main-fabric blend",
+      "note": "Contains 2% elastane; not 100% natural main fabric."
     }
   ]
 }
