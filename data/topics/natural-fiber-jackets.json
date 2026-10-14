@@ -1,0 +1,103 @@
+{
+  "id": "natural-fiber-jackets",
+  "title": "Clean-front natural-fiber jackets",
+  "summary": "Black or brown · S / M · natural outer fabric · discreet pockets.",
+  "updated": "2026-10-14",
+  "recommendation": {
+    "title": "Best match: Quince · $80",
+    "text": "Black cotton twill, shirt collar and subtle side pockets. Closest verified option to your clean-front brief.",
+    "test": "Two options below, not four. Neither is corduroy or verified entirely natural-fiber; lining and trim caveats are explicit."
+  },
+  "products": [
+    {
+      "id": "jacket-quince-black",
+      "name": "Quince · Black Harrington",
+      "verdict": "Best value · closest silhouette",
+      "summary": "Pointed collar, zip front and discreet welt side pockets.",
+      "image": "assets/images/jacket-quince-black.webp",
+      "imageAlt": "Quince · Black Harrington official product photo",
+      "imageNote": "Official retailer image; inspected for color, collar and pocket style. Color can vary with lighting/screens.",
+      "facts": {
+        "Outer fabric": "100% organic cotton twill",
+        "Price": "$80 · free ZIP-quoted shipping; tax extra",
+        "Size / stock": "S and M available · classic fit",
+        "Lining / trims": "Cotton-blend lining; blend undisclosed. Elastic cuffs/hem; leather zip pull.",
+        "Returns": "365 days · unused, tags and packaging",
+        "Trade-off": "Smooth twill, not corduroy; lining not verified all-natural"
+      },
+      "sources": [
+        "jacket-quince-black",
+        "jacket-quince-black-shipping",
+        "jacket-quince-black-returns"
+      ]
+    },
+    {
+      "id": "jacket-bronson-brown",
+      "name": "Bronson · Brown Moleskin Bomber",
+      "verdict": "Heavier brown alternative",
+      "summary": "Clean chest and side welt pockets; olive-brown in the product photo.",
+      "image": "assets/images/jacket-bronson-brown.webp",
+      "imageAlt": "Bronson · Brown Moleskin Bomber official product photo",
+      "imageNote": "Official retailer image; inspected for color, collar and pocket style. Color can vary with lighting/screens.",
+      "facts": {
+        "Outer fabric": "100% cotton moleskin · 450 gsm",
+        "Price": "$150.99 · destination total unverified",
+        "Size / stock": "S and M available · Asian sizing; compare measurements",
+        "Lining / trims": "75% cotton / 25% lyocell lining; ribbing 70% wool / 30% acrylic",
+        "Returns": "30 days · $7 label for 1–2 items",
+        "Trade-off": "Heavyweight; ribbed bomber collar, not an overshirt"
+      },
+      "sources": [
+        "jacket-bronson-brown",
+        "jacket-bronson-brown-shipping",
+        "jacket-bronson-brown-returns"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "jacket-quince-black",
+      "title": "View Quince · Black Harrington",
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black",
+      "type": "Live retailer product",
+      "note": "Black S/M selectable; M independently rechecked. Shell 100% organic cotton. Fully lined cotton-blend chambray with no fiber percentages. Elasticated cuffs/hem and leather pull. Thread/zip tape unspecified."
+    },
+    {
+      "id": "jacket-quince-black-shipping",
+      "title": "Quince · Black Harrington · delivery",
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black",
+      "type": "Delivery evidence",
+      "note": "ZIP10016 entered for S and M: free delivery estimated Sun October18. Estimate may change; checkout tax unknown."
+    },
+    {
+      "id": "jacket-quince-black-returns",
+      "title": "Quince · Black Harrington · returns",
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black",
+      "type": "Merchant policy",
+      "note": "Product page: 365-day easy returns; comparison table says FREE RETURNS 365 days. FAQ says unused, original tags attached and original packaging; most returns free, with exceptions noted on product pages."
+    },
+    {
+      "id": "jacket-bronson-brown",
+      "title": "View Bronson · Brown Moleskin Bomber",
+      "url": "https://bronsonshop.com/products/heavyweight-moleskin-raglan-sleeve-bomber-jacket-brown",
+      "type": "Live retailer product",
+      "note": "Brown S/M available in live variant data at $150.99. 450 gsm cotton shell; 200 gsm cotton/lyocell lining. Lyocell is regenerated cellulose, not a natural fiber under a strict definition. Acrylic ribbing is synthetic. Merchant recommends sizing up; S/M labels do not establish US fit."
+    },
+    {
+      "id": "jacket-bronson-brown-shipping",
+      "title": "Bronson · Brown Moleskin Bomber · delivery",
+      "url": "https://bronsonshop.com/pages/shipping-policy",
+      "type": "Delivery evidence",
+      "note": "US delivery supported by shipping/returns policies; advertised free shipping above $99, not ZIP-verified; general standard estimate 9-14 working days or US warehouse 5-7 days, dispatch origin unknown; tax/import fees unknown"
+    },
+    {
+      "id": "jacket-bronson-brown-returns",
+      "title": "Bronson · Brown Moleskin Bomber · returns",
+      "url": "https://bronsonshop.com/pages/returns",
+      "type": "Merchant policy",
+      "note": "30 days; original unworn condition, tags and packaging; provided return label $7 for 1-2 items, exchange/store credit advertised free; original shipping/taxes/duties nonrefundable"
+    }
+  ],
+  "evidenceNote": "Exact retailer pages, S/M availability and official product photos checked October 14. Quince delivery was checked using ZIP 10016; the retailer estimated October 18, not a guaranteed arrival. Bronson destination checkout and tax were not verified. ARKET’s reference page blocked direct viewing; its indexed description identifies a straight-cut corduroy overshirt with chest patch pockets. These alternatives avoid prominent chest pockets but do not reproduce its corduroy texture.",
+  "caveat": "100% natural outer fabric is not the same as an entirely natural or plastic-free garment. Organic cotton does not establish a health benefit or absence of dyes/finishes. No exact-product influencer endorsement or independently verified safety certification is claimed."
+}

@@ -1,6 +1,14 @@
 {
   "topics": [
     {
+      "id": "natural-fiber-jackets",
+      "title": "Clean-front natural-fiber jackets",
+      "summary": "Black cotton Harrington + heavier brown bomber. Lining and trim caveats disclosed.",
+      "updated": "2026-10-14",
+      "image": "assets/images/jacket-quince-black.webp",
+      "imageAlt": "Quince · Black Harrington official product photo"
+    },
+    {
       "id": "specialist-natural-pants",
       "title": "Pleated pants for the office",
       "summary": "One ready-made wool option + two custom cotton alternatives. No bootcut.",
