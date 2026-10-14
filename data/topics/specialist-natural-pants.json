@@ -1,51 +1,146 @@
 {
   "id": "specialist-natural-pants",
-  "title": "Slim natural-fiber pants",
-  "summary": "Slim only · no lounge pants · black/gray · 30×32 · 100% natural main fabric.",
+  "title": "Pleated pants for the office",
+  "summary": "Gray to black · natural main fabric · no bootcut · any brand or fit.",
   "updated": "2026-10-14",
   "recommendation": {
-    "title": "No qualifying in-stock match verified",
-    "text": "The previous lounge, straight-cut and short-inseam options have been removed.",
-    "test": "This search found zero complete matches—not evidence that none exists anywhere. No substitutes are being recommended."
+    "title": "Best ready-made option: Hawes & Curtis",
+    "text": "Black pleated wool trousers, $160. Waist30 is selectable; the 36″ unfinished leg needs hemming to32″.",
+    "test": "Two $99.99 custom cotton alternatives below. Only one ready-made option verified—not four complete matches."
   },
-  "caveat": "Slim fit and non-lounge construction are hard requirements. Synthetic trims may be disclosed separately, but elastane in the main fabric fails. No relaxation of fit, color, size or fabric is assumed.",
-  "evidenceNote": "Checked specialist catalogs including Rawganique, KnowledgeCotton, HempAge, Asket, Nudie, Kuyichi, MUD Jeans, Kings of Indigo and organsk. Common blockers were elastane, wrong color and unavailable size. No four-option shortlist was established.",
-  "products": [],
+  "products": [
+    {
+      "id": "luxire-shadow",
+      "name": "Luxire · Shadow Grey",
+      "verdict": "Lower-priced custom alternative",
+      "summary": "Lighter cotton for year-round business casual.",
+      "image": "assets/images/luxire-shadow.webp",
+      "imageAlt": "Luxire · Shadow Grey product image",
+      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette.",
+      "facts": {
+        "Main fabric": "100% cotton · 216 gsm",
+        "Price": "$99.99 base; final configuration unquoted",
+        "Fit / size": "Made to order; specify30×32 + straight/tapered leg",
+        "Pleats": "Single/double options; select explicitly",
+        "Trims": "Lining, thread and trims unspecified",
+        "Main caution": "Custom/nonreturnable; remake terms conflict"
+      },
+      "sources": [
+        "luxire-shadow",
+        "luxire-shadow-returns",
+        "luxire-shadow-delivery"
+      ]
+    },
+    {
+      "id": "luxire-after-dark",
+      "name": "Luxire · After Dark Grey",
+      "verdict": "Lower-priced custom alternative",
+      "summary": "Heavier dark-charcoal cotton for cooler weather.",
+      "image": "assets/images/luxire-after-dark.webp",
+      "imageAlt": "Luxire · After Dark Grey product image",
+      "imageNote": "Brand fabric/example photo, NOT a verified rendering of the proposed pleated cut; folded legs hide the silhouette.",
+      "facts": {
+        "Main fabric": "100% cotton · 360 gsm",
+        "Price": "$99.99 base; final configuration unquoted",
+        "Fit / size": "Made to order; specify30×32 + straight/tapered leg",
+        "Pleats": "Single/double options; select explicitly",
+        "Trims": "Lining, thread and trims unspecified",
+        "Main caution": "Custom/nonreturnable; remake terms conflict"
+      },
+      "sources": [
+        "luxire-after-dark",
+        "luxire-after-dark-returns",
+        "luxire-after-dark-delivery"
+      ]
+    },
+    {
+      "id": "hawes-black",
+      "name": "Hawes & Curtis · Black Wool",
+      "verdict": "Verified waist30 · best office match",
+      "summary": "Black tailored wool; straight-to-gently-tapered legs.",
+      "image": "assets/images/hawes-black.webp",
+      "imageAlt": "Hawes & Curtis · Black Wool product image",
+      "imageNote": "Official black product photograph; visible pleated, non-flared cut. Model size not established.",
+      "facts": {
+        "Main fabric": "100% wool · Super100s",
+        "Price": "$160 + shipping / hemming / tax",
+        "Fit / size": "Regular; waist30 available · unhemmed36″",
+        "Pleats": "Ready-made pleated front",
+        "Trims": "Lining, thread and trims unspecified",
+        "Main caution": "Try before hemming; altered pants nonreturnable"
+      },
+      "sources": [
+        "hawes-black",
+        "hawes-black-returns",
+        "hawes-black-delivery"
+      ]
+    }
+  ],
   "sources": [
     {
-      "id": "rawganique",
-      "title": "Rawganique · slim-straight organic cotton jeans",
-      "url": "https://rawganique.com/products/slim-straight-organic-cotton-jeans",
-      "type": "Rejected: wrong color",
-      "note": "30×32 available, 100% organic cotton, but indigo—not black/gray."
+      "id": "luxire-shadow",
+      "title": "View Luxire · Shadow Grey",
+      "url": "https://luxire.com/products/cotton-twill-dark-grey-bf_664050",
+      "type": "Made-to-order fabric listing",
+      "note": "100% cotton. Live HTML customization defines Single Pleat Forward/Reverse, Double Pleat Forward/Reverse. Request explicitly; do not assume default as shown is slim. Product available=true is fabric/order availability, not stocked30×32. Waist30 and inseam32 are offered; final regular/straight pleated configuration has not been completed. Trims unverified."
     },
     {
-      "id": "nudie",
-      "title": "Nudie · Slim Jim Dry Black Tar",
-      "url": "https://www.nudiejeans.com/en-US/product/slim-jim-dry-black-tar",
-      "type": "Rejected: requested size sold out",
-      "note": "$185; 100% cotton and branded slim fit, but 30×32/34/36 are OutOfStock. Fit guide additionally notes slight bootcut. Not a purchase recommendation."
+      "id": "luxire-shadow-returns",
+      "title": "Luxire · return terms",
+      "url": "https://luxire.com/policies/refund-policy",
+      "type": "Merchant policy",
+      "note": "Not normal free returns. Fit Guarantee says first remake on first order free within30 days, later/second remake50%; alterations for fit require customer shipping. Separate refund policy says custom items nonreturnable and first remake only orders<=100 plus both shipping costs. Conflicting policies need clarification."
     },
     {
-      "id": "asket",
-      "title": "Asket · black slim jeans",
-      "url": "https://www.asket.com/en-us/mens-slim-jeans-black",
-      "type": "Rejected: synthetic main-fabric blend",
-      "note": "98% organic cotton, 2% recycled elastane; raw 100% cotton version is indigo."
+      "id": "luxire-shadow-delivery",
+      "title": "Luxire · fit guarantee conflict",
+      "url": "https://luxire.com/pages/fit-guarantee",
+      "type": "Merchant claim; checkout unverified",
+      "note": "Product page says made to order 2–3 weeks plus 2–3 business days shipping; not promised date Advertised free US shipping over $75 and US duties paid; destination checkout/tax total not verified Fit-guarantee page describes free first remake, but refund policy charges shipping and imposes conditions. Get written clarification; no risk-free claim."
     },
     {
-      "id": "knowledge",
-      "title": "KnowledgeCotton · LUCA Black Jet",
-      "url": "https://knowledgecottonapparel.com/products/luca-comfort-chino-pant-black-jet",
-      "type": "Rejected: synthetic main-fabric blend",
-      "note": "Black slim chinos contain 2% elastane."
+      "id": "luxire-after-dark",
+      "title": "View Luxire · After Dark Grey",
+      "url": "https://luxire.com/products/cotton-twill-after-dark-bf_515227",
+      "type": "Made-to-order fabric listing",
+      "note": "100% cotton. Live HTML customization defines Single Pleat Forward/Reverse, Double Pleat Forward/Reverse. Request explicitly; do not assume default as shown is slim. Product available=true is fabric/order availability, not stocked30×32. Waist30 and inseam32 are offered; final regular/straight pleated configuration has not been completed. Trims unverified."
     },
     {
-      "id": "mud",
-      "title": "MUD Jeans · Rick Mid Slim Stone Black",
-      "url": "https://mudjeans.com/products/rick-mid-slim-stone-black",
-      "type": "Rejected: synthetic main-fabric blend",
-      "note": "Contains 2% elastane; not 100% natural main fabric."
+      "id": "luxire-after-dark-returns",
+      "title": "Luxire · return terms",
+      "url": "https://luxire.com/policies/refund-policy",
+      "type": "Merchant policy",
+      "note": "Not normal free returns. Fit Guarantee says first remake on first order free within30 days, later/second remake50%; alterations for fit require customer shipping. Separate refund policy says custom items nonreturnable and first remake only orders<=100 plus both shipping costs. Conflicting policies need clarification."
+    },
+    {
+      "id": "luxire-after-dark-delivery",
+      "title": "Luxire · fit guarantee conflict",
+      "url": "https://luxire.com/pages/fit-guarantee",
+      "type": "Merchant claim; checkout unverified",
+      "note": "Product page says made to order 2–3 weeks plus 2–3 business days shipping; not promised date Advertised free US shipping over $75 and US duties paid; destination checkout/tax total not verified Fit-guarantee page describes free first remake, but refund policy charges shipping and imposes conditions. Get written clarification; no risk-free claim."
+    },
+    {
+      "id": "hawes-black",
+      "title": "View Hawes & Curtis · Black Wool",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
+      "type": "Live selected-size retail listing",
+      "note": "100% wool; Super 100s twill. Size30 selectable, disabled=false; after click class=selected, Add to bag available. No cart or purchase submitted. Charcoal counterpart size30 is explicitly out of stock. Size30 selected on live page revealed 36 inch unfinished inseam. Must hem to32; NOT ready-to-wear30x32. Custom Length and Finish offered but price/configuration unverified. Hook-and-eye fastening disclosed; image shows belt loops/button closure. Lining, pocketing, thread and button composition not disclosed; do not claim whole garment plastic-free."
+    },
+    {
+      "id": "hawes-black-returns",
+      "title": "Hawes & Curtis · return terms",
+      "url": "https://www.hawesandcurtis.com/us-returns",
+      "type": "Merchant policy",
+      "note": "28 days from receipt, original condition/tags; altered/customized items not returnable. International return handling fee calculated in portal and deducted from refund; amount not disclosed. No exchanges; refund and reorder. Return processing up to21 working days. Delivery policy additionally says sales tax non-refundable on returned items. Try unaltered before hemming."
+    },
+    {
+      "id": "hawes-black-delivery",
+      "title": "Hawes & Curtis · US delivery",
+      "url": "https://www.hawesandcurtis.com/us-delivery",
+      "type": "Merchant claim; checkout unverified",
+      "note": "US policy: postal $17.95 /3-9 business days; standard $19.95 /3-5; express $22.95 /1-2. Import duties covered; sales tax at checkout. Altered items add4 working days. ZIP10016 checkout rate/date NOT verified. Product accordion advertises free shipping above$199, current banner and US delivery policy say above$249; this$160 item alone meets neither threshold."
     }
-  ]
+  ],
+  "caveat": "Slim fit is no longer required. No lounge, flared or bootcut styles are recommended. Natural main cloth does not prove an entirely plastic-free garment: lining, thread and other trim materials remain unverified. No independent health benefit or exact-product safety certification established.",
+  "evidenceNote": "Brand pages, selected size availability and product photos checked October14. Luxire pleats and a straight/tapered cut must be specified; folded stock photos do not establish the ordered silhouette. Exact customized prices, destination shipping and final tax were not verified. No purchase made. COS, Mango and Spier pages blocked verification; Uniqlo’s inspected option contained synthetics. These are bounded findings, not an exhaustive market claim."
 }
