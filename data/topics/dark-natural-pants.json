@@ -1,0 +1,230 @@
+{
+  "id": "dark-natural-pants",
+  "title": "Dark natural-fiber pants",
+  "summary": "30×32 · slim preferred · gray to black · lowest price first.",
+  "updated": "2026-10-14",
+  "recommendation": {
+    "title": "Best value: Wrangler 936 in black",
+    "text": "$41.99 + $10 shipping = $51.99 before tax at Gomez. Exact 30×32 is available.",
+    "test": "Slim thigh, boot-compatible hem. Meets the cotton rule; organic status and finishes are unverified."
+  },
+  "caveat": "These meet the main-fabric rule, not a verified organic, untreated or plastic-free standard. Dyes, finishing chemistry and exact-product safety certificates remain unverified. No verified influencer endorsement of these brands was found.",
+  "evidenceNote": "Influencer signal supports cotton/linen as a preference, not hormone or other health benefits. Grok returned sources before timing out; post text was checked via third-party mirrors. Community and long-term review coverage was not completed. Stock is storefront variant data, not an order guarantee. Prices include single-pair anonymous shipping quotes to NYC10016 and exclude tax; final checkout may differ. Gomez had the lowest verified delivered price among compared sellers, not a market-wide cheapest claim.",
+  "products": [
+    {
+      "id": "wrangler-black",
+      "name": "Wrangler 936 · Shadow Black",
+      "verdict": "Best verified delivered price",
+      "summary": "Closest match to your slim preference.",
+      "image": "assets/images/pants-wrangler-black.webp",
+      "imageAlt": "Model wearing Wrangler 936 · Shadow Black jeans",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "facts": {
+        "Fabric": "100% cotton · nonstretch",
+        "Price": "$51.99 shipped, before tax",
+        "Fit": "High-rise slim · 16½″ opening",
+        "Stock": "30×32 available in live variant data",
+        "Trims / finishes": "Neolite patch; thread / finishes unknown",
+        "Trade-off": "Boot-compatible hem; heavy denim"
+      },
+      "sources": [
+        "gomez-black",
+        "gomez-returns",
+        "wrangler-black-seller",
+        "nigros-black",
+        "nigros-returns",
+        "highcountry",
+        "solbrah",
+        "tallowtwins",
+        "alpaca",
+        "dermnet",
+        "oeko"
+      ]
+    },
+    {
+      "id": "wrangler-charcoal",
+      "name": "Wrangler 936 · Charcoal",
+      "verdict": "Gray alternative",
+      "summary": "Same cut, lighter charcoal shade.",
+      "image": "assets/images/pants-wrangler-charcoal.webp",
+      "imageAlt": "Model wearing Wrangler 936 · Charcoal jeans",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "facts": {
+        "Fabric": "100% cotton · nonstretch",
+        "Price": "$66.98 shipped, before tax",
+        "Fit": "High-rise slim · 16½″ opening",
+        "Stock": "30×32 available in live variant data",
+        "Trims / finishes": "Neolite patch; thread / finishes unknown",
+        "Trade-off": "Boot-compatible hem; heavy denim"
+      },
+      "sources": [
+        "wrangler-charcoal-seller",
+        "starr-returns",
+        "solbrah",
+        "tallowtwins",
+        "alpaca",
+        "dermnet",
+        "oeko"
+      ]
+    },
+    {
+      "id": "levis-517",
+      "name": "Levi’s 517 · Black",
+      "verdict": "Bootcut alternative",
+      "summary": "Choose only if you want a flared hem.",
+      "image": "assets/images/pants-levis-517.webp",
+      "imageAlt": "Model wearing Levi’s 517 · Black jeans",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "facts": {
+        "Fabric": "100% cotton · nonstretch",
+        "Price": "$74.98 shipped, before tax",
+        "Fit": "Slim thigh · bootcut",
+        "Stock": "30×32 available in live variant data",
+        "Trims / finishes": "Thread, patch / finishes unknown",
+        "Trade-off": "Bootcut, not narrow-ankle slim"
+      },
+      "sources": [
+        "levis-517-seller",
+        "starr-returns",
+        "solbrah",
+        "tallowtwins",
+        "alpaca",
+        "dermnet",
+        "oeko"
+      ]
+    },
+    {
+      "id": "levis-501",
+      "name": "Levi’s 501 · Black",
+      "verdict": "Straight-leg fallback",
+      "summary": "More room through the thigh, not slim.",
+      "image": "assets/images/pants-levis-501.webp",
+      "imageAlt": "Model wearing Levi’s 501 · Black jeans",
+      "imageNote": "Retailer product photo of this exact model and color; model size is not established.",
+      "facts": {
+        "Fabric": "100% cotton · nonstretch",
+        "Price": "$84.98 shipped, before tax",
+        "Fit": "Regular thigh · straight leg",
+        "Stock": "30×32 available in live variant data",
+        "Trims / finishes": "Thread, patch / finishes unknown",
+        "Trade-off": "Higher price; roomier than requested"
+      },
+      "sources": [
+        "levis-501-seller",
+        "starr-returns",
+        "solbrah",
+        "tallowtwins",
+        "alpaca",
+        "dermnet",
+        "oeko"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "wrangler-black-seller",
+      "title": "Wrangler 936 · Shadow Black · 30×32 at Starr",
+      "url": "https://starrwesternwear.com/products/wrangler-mens-slim-fit-cowboy-cut-jeans-0936wbk?variant=47007408292061",
+      "type": "Retailer specification and live variant data",
+      "note": "Starr item price $56.99; size 30 / 32 available=true. FINALLY, JEANS THAT FIT LIKE A GLOVE \r\n Wrangler® Cowboy Cut® jeans are a tried-and-true wardrobe staple for cowboys who demand a lot from their everyday clothes. Their men's Cowboy Cut® 0936 comes with all the same iconic details of the 13MWZ, including the classic neolite patch, five-pocket styling, and that signature 'W' stitching you know and trust. What makes the 0936 jean a must-have for every modern cowboy is its slim silhouette through the seat, thigh, and knee. Whether dressed up for a special occasion or dressed down for a backyard barbecue, these men's Cowboy Cut® Wrangler jeans will keep you comfortable all day long without compromising style. \r\n   Look for the W on the Pocket®   \r\n \r\n   Fit:  Slim \r\n   Rise:  High \r\n   Front Rise:  11\" \r\n   Leg:  Tapered \r\n   Leg Opening:  16 1/2\" \r\n   Front Closure:  Zip-Fly with button closure \r\n   Color:  Shadow Black  \r\n   Product ID:  0936WBK \r\n   Color:  Black \r\n   Material:  100% Cotton Heavyweight Twill Denim, 14.25 oz. \r\n   Material Weight:  14.25 oz. \r\n   Pattern:  Solid \r\n   Stretch:  No Stretch Trims: Neolite patch disclosed for Wrangler; exact patch chemistry, thread, pocketing, labels and zipper tape not verified. No exact-product organic or harmful-substance certificate checked."
+    },
+    {
+      "id": "wrangler-charcoal-seller",
+      "title": "Wrangler 936 · Charcoal · 30×32 at Starr",
+      "url": "https://starrwesternwear.com/products/wrangler-mens-slim-fit-cowboy-cut-jeans-0936chg?variant=47007372771549",
+      "type": "Retailer specification and live variant data",
+      "note": "Starr item price $56.99; size 30 / 32 available=true. FINALLY, JEANS THAT FIT LIKE A GLOVE \r\n Wrangler® Cowboy Cut® jeans are a tried-and-true wardrobe staple for cowboys who demand a lot from their everyday clothes. Their men's Cowboy Cut® 0936 comes with all the same iconic details of the 13MWZ, including the classic neolite patch, five-pocket styling, and that signature 'W' stitching you know and trust. What makes the 0936 jean a must-have for every modern cowboy is its slim silhouette through the seat, thigh, and knee. Whether dressed up for a special occasion or dressed down for a backyard barbecue, these men's Cowboy Cut® Wrangler jeans will keep you comfortable all day long without compromising style. \r\n   Look for the W on the Pocket®   \r\n \r\n   Fit:  Slim \r\n   Rise:  High \r\n   Front Rise:  11\" \r\n   Leg:  Tapered \r\n   Leg Opening:  16 1/2\" \r\n   Front Closure:  Zip-Fly with button closure \r\n   Color:  Charcoal Gray  \r\n   Product ID:  0936CHG \r\n   Color:  Grey \r\n   Material:  100% Cotton Heavyweight Twill Denim, 13.5 oz. \r\n   Material Weight:  13.5 oz. \r\n   Pattern:  Solid \r\n   Stretch:  No Stretch Trims: Neolite patch disclosed for Wrangler; exact patch chemistry, thread, pocketing, labels and zipper tape not verified. No exact-product organic or harmful-substance certificate checked. Anonymous exact-item ZIP10016 quote: $56.99 + $9.99 shipping = $66.98 before tax. Advertised standard 3–7 business days; no arrival date supplied."
+    },
+    {
+      "id": "levis-517-seller",
+      "title": "Levi’s 517 · Black · 30×32 at Starr",
+      "url": "https://starrwesternwear.com/products/levis-mens-517-slim-fit-bootcut-jeans-005170260?variant=47007600902365",
+      "type": "Retailer specification and live variant data",
+      "note": "Starr item price $64.99; size 30 / 32 available=true. Essential Levi's Mens 517 Bootcut Jeans. \r\n \r\n Sits below waist \r\n Slim from hip to thigh \r\n Bootcut leg \r\n Zip fly \r\n 100% Cotton \r\n 14.5 oz \r\n Color: Black \r\n Non-stretch Trims: Neolite patch disclosed for Wrangler; exact patch chemistry, thread, pocketing, labels and zipper tape not verified. No exact-product organic or harmful-substance certificate checked. Anonymous exact-item ZIP10016 quote: $64.99 + $9.99 shipping = $74.98 before tax. Advertised standard 3–7 business days; no arrival date supplied."
+    },
+    {
+      "id": "levis-501-seller",
+      "title": "Levi’s 501 · Black · 30×32 at Starr",
+      "url": "https://starrwesternwear.com/products/levis-mens-501-original-fit-jeans-005010660?variant=47007405736157",
+      "type": "Retailer specification and live variant data",
+      "note": "Starr item price $74.99; size 30 / 32 available=true. Essential Levi's Mens 501 Original Fit Jeans Black, Close your eyes. Think “jeans.” Now open. They were 501® Originals, right? With a classic straight leg and iconic styling, they’re literally the blueprint for every pair of modern jeans in existence—burned into the world’s collective cortex ever since Levi Strauss (the man himself!) introduced them in 1873. To this day they’ve never gone out of style. And they never will. \r\n \r\n The original blue jeans \r\n Levis’ signature straight fit \r\n A blank canvas for customization and self-expression \r\n Made with classic, non-stretch denim \n \r\n  How it Fits  \r\n \r\n Regular Through The Thigh \r\n Sits At Your Waist \r\n Straight Leg \r\n Front rise: 11 1/4\",Knee: 17 1/2\",Leg opening: 16\",Measurements based on size 32 \n \r\n  Composition & Care  \r\n \r\n 100% Cotton \r\n Denim \r\n Non-stretch \r\n Button fly \r\n 5-pocket styling \r\n Wash your jeans once every 10 wears at most; this increases their lifespan and saves natural resources. Machine wash cold, Do not bleach, Tumble dry medium, Hot iron if needed, Dry cleaning possible, Wash inside out with like colors \r\n Made in Egypt, Mexico Trims: Neolite patch disclosed for Wrangler; exact patch chemistry, thread, pocketing, labels and zipper tape not verified. No exact-product organic or harmful-substance certificate checked. Anonymous exact-item ZIP10016 quote: $74.99 + $9.99 shipping = $84.98 before tax. Advertised standard 3–7 business days; no arrival date supplied."
+    },
+    {
+      "id": "nigros-black",
+      "title": "Wrangler Shadow Black · 30×32 at Nigro’s",
+      "url": "https://nigroswesternstore.com/products/mens-wrangler-cowboy-cut-slim-fit-jean-shadow-black-wash?variant=33431491674251",
+      "type": "Live retailer listing",
+      "note": "Exact 30 / 32 available=true. $44.99 + $11 UPS Ground = $55.99 before tax, anonymous ZIP10016 quote. Carrier estimate October19 is not a full-address checkout guarantee. Barcode 084084494924 matches Starr 0936WBK; cotton specification corroborated by the exact model listing at Starr."
+    },
+    {
+      "id": "starr-returns",
+      "title": "Starr · shipping and returns",
+      "url": "https://starrwesternwear.com/pages/shipping-returns",
+      "type": "Merchant policy; not a checkout quote",
+      "note": "30-day returns, new/unwashed with tags. Original shipping not refunded. Free-shipping/free-return offer requires qualifying $75+ orders; each individual Starr pair here is below that threshold. Policy has both delivery/purchase date wording; use stricter purchase-date limit. Single-item ZIP10016 shipping quotes for charcoal, 517 and 501 were each $9.99; tax and exact arrival remain unquoted."
+    },
+    {
+      "id": "solbrah",
+      "title": "SolBrah · natural fibers",
+      "url": "https://x.com/SolBrah/status/1586725207485521920",
+      "type": "Material recommendation · mirrored post, 2022-10-30",
+      "note": "Recommends cotton, linen, wool and other natural fibers. No pants brand named. Performance claims not independently validated; no post-level sponsorship disclosed, broader clothing/supplement business interests noted."
+    },
+    {
+      "id": "tallowtwins",
+      "title": "Tallowtwins · linen pants",
+      "url": "https://x.com/Tallowtwins/status/1960787845368701034",
+      "type": "Category recommendation · mirrored post, 2025-08-27",
+      "note": "Explicitly recommends linen pants; no brand. “Hormone happy” is unsupported by clinical evidence in the post and is not used to rank these pants. Operates skincare business; clothing sponsorship unknown."
+    },
+    {
+      "id": "alpaca",
+      "title": "AlpacaAurelius · fabric vs. finishes",
+      "url": "https://x.com/AlpacaAurelius/status/2109694229345616077",
+      "type": "Warning / organic preference · mirrored post, 2026-10-12",
+      "note": "Warns that 100% cotton alone does not describe finishes and recommends organic natural clothing. His glyphosate statistic and blanket treatment/exposure claims are unverified. These budget picks are not established organic or untreated. Commercial supplement/coffee interests; clothing sponsorship unknown."
+    },
+    {
+      "id": "dermnet",
+      "title": "DermNet · textile contact dermatitis",
+      "url": "https://dermnetnz.org/topics/textile-contact-dermatitis",
+      "type": "Clinical education; not an exact-product test",
+      "note": "Identifies dyes, finishing resins, glues and nickel/elastic as possible contact allergens. For susceptible people recommends cotton/linen, loose fit, lighter colors and avoiding non-iron/dirt-repellent clothing. Dark/slim preferences are a trade-off if you have contact sensitivity; not proof dark pants are unsafe. No finish absence verified for these products."
+    },
+    {
+      "id": "oeko",
+      "title": "OEKO-TEX · what STANDARD 100 means",
+      "url": "https://www.oeko-tex.com/en/our-standards/oeko-tex-standard-100",
+      "type": "Certification issuer; no finalist certification verified",
+      "note": "Tests against a defined harmful-substances standard; exact garment certificate and current scope matter. Not a zero-chemical or hormone-safety guarantee. No exact-product certificate established for this shortlist."
+    },
+    {
+      "id": "gomez-black",
+      "title": "Buy Shadow Black · 30×32 at Gomez",
+      "url": "https://gomezwesternwear.com/products/0936wbk-cowboy-cut-slim-fit?variant=46869519302908",
+      "type": "Exact variant and anonymous NYC shipping quote",
+      "note": "$41.99; 30X32 available=true; SKU084084494924 matches exact Wrangler 0936WBK cotton model documented at Starr and High Country. Anonymous one-item cart read back then quoted ZIP10016: $10 standard shipping, $51.99 before unexposed tax. No arrival date. No purchase made."
+    },
+    {
+      "id": "gomez-returns",
+      "title": "Gomez · return policy",
+      "url": "https://gomezwesternwear.com/policies/refund-policy",
+      "type": "Merchant policy",
+      "note": "Advertises FREE 30-day refunds from delivery; pristine/unworn with tags and original packaging. Bracketing (ordering multiple variants to return extras) excluded; final sale, clearance and custom excluded. Separate exchange/store-credit section says 30 days from purchase. Refund of original outbound shipping not established."
+    },
+    {
+      "id": "nigros-returns",
+      "title": "Nigro’s · return policy",
+      "url": "https://nigroswesternstore.com/pages/policies",
+      "type": "Merchant policy",
+      "note": "30 days from purchase, unused perfect condition, original tags/packaging. Buyer pays return shipping; prepaid label cost deducted; original shipping nonrefundable. Refund or credit, no exchanges. Allow 2-3 weeks processing."
+    },
+    {
+      "id": "highcountry",
+      "title": "High Country · same black 30×32",
+      "url": "https://www.highcountrywesternwear.com/products/mens-wrangler-cowboy-cut-slim-fit-jean-936wbk?variant=28546418002",
+      "type": "Alternative retailer / exact model construction",
+      "note": "$49.98; exact 30×32 available. 100% cotton 14.25oz denim stated. ZIP quote returned empty rates, so shipping is unknown, not unavailable. 90-day unused returns; buyer pays postage. Nigro’s $44.99 and High Country $49.98 are both within 20% of Gomez’s $41.99 item price; same-product seller comparisons, not independent product tests."
+    }
+  ]
+}
